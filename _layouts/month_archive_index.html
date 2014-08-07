@@ -1,0 +1,40 @@
+---
+layout: default
+---
+
+<div class="posts">
+  {% strip %}
+  {% for post in paginator.posts %}
+  <div class="post">
+    <h1 class="post-title">
+      <a href="{{ post.url }}">
+        {{ post.title }}
+      </a>
+    </h1>
+
+    <span class="post-date">{{ post.date | date: "%b %d" }}</span>
+
+    <div class="excerpt">
+      {% if post.thumbnail %}
+        <a href="{{ post.url }}"><img class="inlineleft" src="{{ post.thumbnail }}"></a>
+      {% endif %}
+      {{ post.excerpt }}…
+      <span class="continue"><a href="{{ post.url }}">Read more »</a></span>
+    </div>
+  </div>
+  {% endfor %}
+  {% endstrip %}
+</div>
+
+<div class="pagination">
+  {% if page.prev %}
+    <a class="pagination-item older" href="{{page.prev}}">Older</a>
+  {% else %}
+    <span class="pagination-item older">Older</span>
+  {% endif %}
+  {% if page.next %}
+    <a class="pagination-item newer" href="{{page.next}}">Newer</a>
+  {% else %}
+    <span class="pagination-item newer">Newer</span>
+  {% endif %}
+</div>

@@ -1,0 +1,10 @@
+---
+layout: default
+---
+<h2>{{ page.tag }} ({{ page.posts.size }})</h2>
+<ul>
+{% for post in page.posts %}
+  <li><a href="{{ post.url }}">{{ post.title }}</a> ({{ post.date | date: "%Y %b %d" }})</li>
+{% endfor %}
+</ul>
+
