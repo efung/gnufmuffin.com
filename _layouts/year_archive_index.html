@@ -10,17 +10,15 @@ layout: default
     {% if month != nmonth %}
       {% if forloop.index != 1 %}</ul>{% endif %}
     <h1 class="post-date"><a href="{{ month }}/">{{ post.date | date: '%B' }}</a></h1>
-      <ul class="year-archive-list">
+      <ul id="year-archive-list">
     {% endif %}
         <li>
-          <div class="thumbnail">
           {% if post.thumbnail %}
-            <img src="{{ post.thumbnail }}"></img>
+            <img class="thumbnail" src="{{ post.thumbnail }}"></img>
           {% else %}
-            <i class="fa fa-cutlery"></i>
+            <i class="fa fa-cutlery thumbnail"></i>
           {% endif %}
-          </div>
-          <p><span class="post-date">{{ post.date | date: "%d" }}</span> <span class="post-title"><a href="{{ post.url }}">{{ post.title }}</a></span></p>
+          <div class="post-date">{{ post.date | date: "%d" }}</div> <div class="post-title"><a href="{{ post.url }}">{{ post.title }}</a></div>
         </li>
 {% endfor %}
 {% endstrip %}
