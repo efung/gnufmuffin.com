@@ -24,8 +24,6 @@
  * Masthead
  * Posts and pages
  * Pagination
- * Reverse layout
- * Themes
  */
 
 
@@ -109,6 +107,10 @@ strong {
   color: #303030;
 }
 
+p.copyright {
+  font-size: 0.8rem;
+  color: #555;
+}
 
 /* Lists */
 ul, ol, dl {
@@ -257,6 +259,11 @@ blockquote p:last-child {
   float: right;
   margin-left: 0.5rem;
   margin-bottom: 0.5rem;
+}
+
+.content img.avatar {
+  border-radius: 50%;
+  margin: auto;
 }
 
 /* Tables */

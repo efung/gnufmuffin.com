@@ -1,6 +1,5 @@
 <div class="sidebar-bg">
 <div class="sidebar">
-  <div class="container">
     <div class="sidebar-about">
       <h1>{{ site.title }}</h1>
       <p class="lead">{{ site.description }}</p>
@@ -8,21 +7,16 @@
 
     <ul class="sidebar-nav">
       <li class="sidebar-nav-item{% if page.title == "Home" %} active{% endif %}">
-        <a href="/">Home</a>
+      <a href="/">Home</a><span class="sidebar-nav-indicator {% if page.url == node.url %} active{% endif %}">◀</span>
       </li>
 
       {% strip %}
-        {% comment %}
-          The code below dynamically generates a sidebar nav of pages with
-          `layout: page` in the front-matter. See readme for usage.
-        {% endcomment %}
-
         {% assign pages_list = site.pages %}
         {% for node in pages_list %}
           {% if node.title != null %}
             {% if node.layout == "page" %}
               <li class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}">
-                <a href="{{ node.url }}">{{ node.title }}</a>
+              <a href="{{ node.url }}">{{ node.title }}</a><span class="sidebar-nav-indicator {% if page.url == node.url %} active{% endif %}">◀</span>
               </li>
             {% endif %}
           {% endif %}
@@ -30,8 +24,6 @@
       {% endstrip %}
     </ul>
 
-    <img class="avatar" src="http://www.gravatar.com/avatar/877215a85ea128b67b4334142a6df260.png"></img>
-    <p>&copy; 2005 - {{ site.time | date: '%Y' }} by Eric Fung. All rights reserved.</p>
-  </div>
+    <p class="copyright">&copy; 2005 - {{ site.time | date: '%Y' }} by Eric Fung. All rights reserved.</p>
 </div>
 </div>
