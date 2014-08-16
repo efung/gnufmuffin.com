@@ -97,6 +97,16 @@ html {
   font-size: 1.5rem;
 }
 
+.sidebar-about .lead {
+  display: none;
+}
+
+@media (min-width: 48rem) {
+  .sidebar-about .lead {
+    display: inherit;
+  }
+}
+
 /* Sidebar nav */
 .sidebar-nav {
   padding-left: 0;
@@ -105,7 +115,19 @@ html {
   font-weight: normal;
 }
 .sidebar-nav-item {
-  display: block;
+  display: inline;
+}
+.sidebar-nav-item a {
+  padding: 0.5rem;
+}
+
+@media (min-width: 48rem) {
+  .sidebar-nav-item {
+    display: block;
+  }
+  .sidebar-nav-item a {
+    padding: 0rem;
+  }
 }
 
 a.sidebar-nav-item:hover,
