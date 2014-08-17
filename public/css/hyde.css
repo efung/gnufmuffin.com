@@ -101,6 +101,10 @@ html {
   font-size: 1.5rem;
 }
 
+.sidebar-about h1 a {
+  color: #fff;
+}
+
 .sidebar-about .lead {
   display: none;
 }
