@@ -59,14 +59,18 @@ html {
 }
 
 .sidebar {
-  background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 1.0) 280px);
+  background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 1.0) 200px);
   text-align: center;
-  padding: 4rem 0rem;
+  padding: 1rem 0rem;
   width: 100%;
   height: 100%;
 }
 
 @media (min-width: 48rem) {
+  .sidebar {
+    padding: 4rem 0rem;
+  }
+
   .sidebar-bg {
     position: fixed;
     top: 0;
@@ -173,12 +177,14 @@ a.sidebar-nav-item:focus {
  */
 
 .content {
-  padding-top:    4rem;
-  padding-bottom: 4rem;
+  padding-top:    1rem;
+  padding-bottom: 1rem;
 }
 
 @media (min-width: 48rem) {
   .content {
+    padding-top:    4rem;
+    padding-bottom: 4rem;
     max-width: 38rem;
     margin-left: 20rem;
     margin-right: 2rem;
