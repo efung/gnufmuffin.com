@@ -147,18 +147,6 @@ a.sidebar-nav-item:focus {
   font-weight: bold;
 }
 
-.sidebar-nav-indicator {
-  color: #FFF;
-  font-weight: bold;
-  visibility: hidden;
-  float: right;
-  margin-right: -0.3rem;
-}
-
-.sidebar-nav-indicator.active {
-  visibility: visible;
-}
-
 /* Sticky sidebar
  *
  * Add the `sidebar-sticky` class to the sidebar's container to affix it the
