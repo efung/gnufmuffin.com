@@ -1,13 +1,18 @@
-<html>
-<head>
-<style>
-body { background-color: #232323; color: white; font-size: xx-large; text-align: center; margin: 0px auto;}
-img { padding: 20px; margin: 20px; border-color: white; }
-</style>
-<meta name="thumbnail" content="https://farm3.staticflickr.com/2676/4033998663_0325fd907f_t.jpg">
-</head>
-<body>
-<p>Hello, muffin-loving world!</p>
-<a href="https://www.flickr.com/photos/gnuf/4033998663" title="Thanksgiving Squash Muffins by Eric Fung, on Flickr"><img src="https://farm3.staticflickr.com/2676/4033998663_0325fd907f_b.jpg" width="1024" height="768" alt="Thanksgiving Squash Muffins"></a>
-</body>
-</html>
+---
+layout: default
+---
+
+<div class="posts">
+  {% assign post = site.posts[0] %}
+  <div class="post">
+    <h1 class="post-title"><a href="{{ post.url }}">{{ post.title }}</a></h1>
+    <span class="post-date">{{ post.date | date: "%Y %b %d" }}</span>
+
+    {{ post.content }}
+  </div>
+
+  <div class="pagination">
+    {% capture url %}{{ site.posts[1].date | date: "%Y/%m" }}{% endcapture %}
+    <a class="pagination-item" href="/{{ url }}/">More entries from {{ site.posts[1].date | date: '%B %Y' }}…</a>
+  </div>
+</div>
