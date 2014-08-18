@@ -7,6 +7,8 @@ layout: default
     <h1 class="post-title">{{ page.title }}</h1>
     <span class="post-date">{{ page.date | date: "%Y %b %d" }}</span>
   </div>
+  {{ content }}
+
   {% if page.tags.size > 0 %}
     {%strip%}
       <div class="tags">
@@ -17,8 +19,6 @@ layout: default
       </div>
     {%endstrip%}
   {% endif %}
-
-  {{ content }}
 
   {% if page.comments %}
     {% include disqus_comments.html %}
