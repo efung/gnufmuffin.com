@@ -1,10 +1,20 @@
 ---
 layout: default
 ---
-<h2>{{ page.tag }} ({{ page.posts.size }})</h2>
-<ul>
+<h1>{{ page.posts.size }} post{% if page.posts.size > 1 %}s{% endif %} tagged with {{ page.tag }}</h1>
+<div class="posts">
+  <ul id="year-archive-list">
+{% strip %}
 {% for post in page.posts %}
-  <li><a href="{{ post.url }}">{{ post.title }}</a> ({{ post.date | date: "%Y %b %d" }})</li>
+    <li>
+      {% if post.thumbnail %}
+        <img class="thumbnail" src="{{ post.thumbnail }}"></img>
+      {% else %}
+        <i class="fa fa-cutlery thumbnail"></i>
+      {% endif %}
+      <div class="post-date">{{ post.date | date: "%Y %b %d" }}</div> <div class="post-title"><a href="{{ post.url }}">{{ post.title }}</a></div>
+    </li>
 {% endfor %}
-</ul>
-
+{% endstrip %}
+  </ul>
+</div>
