@@ -545,6 +545,7 @@ ul#year-archive-list > li > i {
   display: block;
   padding: 1rem;
   border: 1px solid #eee;
+  white-space: pre;
 }
 .pagination-item:first-child {
   margin-bottom: -1px;

@@ -9,18 +9,31 @@ layout: default
   </div>
   {{ content }}
 
+  {%strip%}
   {% if page.tags.size > 0 %}
-    {%strip%}
       <div class="tags">
         <ul class="tag-list">
           {% for t in page.tags %}
             <li><a href="{{ t | tag_url }}">{{ t }}</a></li>
           {% endfor %}
       </div>
-    {%endstrip%}
   {% endif %}
 
   {% if page.comments %}
     {% include disqus_comments.html %}
   {% endif %}
+
+  <div class="pagination">
+    {% if page.previous %}
+      <a class="pagination-item older" href="{{page.previous.url}}"><i class="fa fa-backward"></i>  Previous Post</a>
+    {% else %}
+      <span class="pagination-item older">Older</span>
+    {% endif %}
+    {% if page.next %}
+      <a class="pagination-item newer" href="{{page.next.url}}">Next Post  <i class="fa fa-forward"></i></a> 
+    {% else %}
+      <span class="pagination-item newer">Newer</span>
+    {% endif %}
+  </div>
+  {%endstrip%}
 </div>

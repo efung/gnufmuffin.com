@@ -28,13 +28,13 @@ layout: default
 
 <div class="pagination">
   {% if page.prev %}
-    <a class="pagination-item older" href="{{page.prev}}">Older</a>
+    <a class="pagination-item older" href="{{page.prev}}"><i class="fa fa-backward"></i>  Previous Month</a>
   {% else %}
-    <span class="pagination-item older">Older</span>
+    <span class="pagination-item older">Previous Month</span>
   {% endif %}
   {% if page.next %}
-    <a class="pagination-item newer" href="{{page.next}}">Newer</a>
+    <a class="pagination-item newer" href="{{page.next}}">Next Month  <i class="fa fa-forward"></i></a>
   {% else %}
-    <span class="pagination-item newer">Newer</span>
+    <span class="pagination-item newer">Next Month</span>
   {% endif %}
 </div>
