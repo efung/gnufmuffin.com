@@ -125,6 +125,10 @@ dd {
   margin-bottom: .5rem;
 }
 
+ul#tags-archive-list {
+  list-style: none;
+}
+
 ul.tag-list {
   display: inline;
   list-style: none;
