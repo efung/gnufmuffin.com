@@ -88,6 +88,15 @@ redirect users to the new domain, as well as redirect individual posts
 to the path containing the post ID.
     5. This approach isn't perfect, as search pages (`/search?q=term`)
 and archives (`/2014/08/`) can't be redirected.
+    6. Even though the classic template is required to add the `<meta>`
+fields and to provide redirection, the mobile version in the upgraded
+template interferes with redirection. That is, Blogger generates 
+appends a `?m=1` query when the user agent is detected to
+be mobile. To disable this, you need to switch to the upgraded template,
+disable the mobile version, then switch back to classic.
+    7. Once I verified the redirection was working in desktop and mobile
+browsers, I deleted the sidebar, post body and footer in the classic 
+Blogger template which should speed load times.
 
 [Blogger]: http://blogger.com/ "Blogger"
 [Flickr]:  http://flickr.com/  "Flickr"
