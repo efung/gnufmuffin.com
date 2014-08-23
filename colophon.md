@@ -18,7 +18,7 @@ Most of the time, I take photos of food near a window or outside,
 because I don't have a lightbox or bother with any sort of controlled
 lighting.
 
-If the photos nead post-processing, I fix simple stuff like white balance
+If the photos nedd post-processing, I fix simple stuff like white balance
 or exposure using Mac OS X's Preview. [ImageMagick][] is what I use for 
 creating montages. 
 
@@ -90,7 +90,7 @@ to the path containing the post ID.
 and archives (`/2014/08/`) can't be redirected.
     6. Even though the classic template is required to add the `<meta>`
 fields and to provide redirection, the mobile version in the upgraded
-template interferes with redirection. That is, Blogger generates 
+template interferes with redirection. That is, Blogger 
 appends a `?m=1` query when the user agent is detected to
 be mobile. To disable this, you need to switch to the upgraded template,
 disable the mobile version, then switch back to classic.
@@ -109,3 +109,4 @@ Blogger template which should speed load times.
 [Disqus]: http://www.disqus.com/ "Disqus"
 [GorillaPod]: http://joby.com/gorillapod "GorillaPod"
 [Google Custom Search Engine]: https://www.google.com/cse/ "Google CSE"
+[ImageMagick]: http://www.imagemagick.org/ "ImageMagick"
