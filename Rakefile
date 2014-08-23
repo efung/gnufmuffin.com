@@ -1,18 +1,22 @@
-require "jekyll"
+require 'jekyll'
+require 'tmpdir'
 
-# Github pages publishing.
+# Usage:
+# bundle exec rake site:<task>
 namespace :site do
-  # Usaage:
-  # bundle exec rake site:publish
-  desc "Publish blog to gh-pages"
-  task :publish do
-    # Compile the Jekyll site using the config.
+  desc "Generate site"
+  task :generate do
+    puts "## Generating Site with Jekyll"
     Jekyll::Site.new(Jekyll.configuration({
       "source"      => ".",
       "destination" => "_site",
       "config" => "_config.yml"
     })).process
+  end
 
+  desc "Publish blog to gh-pages"
+  task :publish => [:generate] do
+    # Compile the Jekyll site using the config.
     # Get the origin to which we are going to push the site.
     origin = `git config --get remote.origin.url`
 
