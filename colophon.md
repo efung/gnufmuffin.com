@@ -46,17 +46,17 @@ GitHub Pages doesn't support
     - Replaced the RSS template with one from
 [https://github.com/snaptortoise/jekyll-rss-feeds](https://github.com/snaptortoise/jekyll-rss-feeds), augmenting it with a thumbnail image
 1. Installed some Jekyll plugins 
-    - Wrote custom plugins for monthly and yearly archive pages, followed ideas in
+    - Wrote custom ones for monthly and yearly archive pages, followed ideas in
 [http://www.mitsake.net/2012/04/archives-in-jekyll/](http://www.mitsake.net/2012/04/archives-in-jekyll/)
-    - Installed
-[https://github.com/pattex/jekyll-tagging/](https://github.com/pattex/jekyll-tagging/)
-to handle tags
+    - [https://github.com/pattex/jekyll-tagging/](https://github.com/pattex/jekyll-tagging/)
+    - [https://github.com/jekyll/jekyll-redirect-from](https://github.com/jekyll/jekyll-redirect-from)
 1. Forked [blogger2jekyll](https://github.com/efung/blogger2jekyll), a tool
 written in Node.js to ease migrating from Blogger to Jekyll. I extended
 the tool to include a few more things in the YAML front matter:
     - Generate array of tags from labels
     - Generate post excerpt
     - Extract Flickr thumbnail from first image
+    - Added a `redirect_from` to handle domain migration (see below)
 1. There were a number of existing HTML problems I had to fix in the
 Blogger-hosted content:
     - A few links were absolute, pointing to a hosting provider I've long
@@ -69,6 +69,25 @@ These were cleaned up after importing the posts into Jekyll.
     - Included the Universal Code in my post template
     - Imported my old Blogger comments into Disqus
 1. Created a [Google Custom Search Engine][] to provide site search
+1. To redirect users from the old pages hosted at Blogger to the new
+site, I had to jump through some hoops. 
+    1. These two pages were of immense help:
+        - [http://blog.coolaj86.com/articles/migrate-from-blogger-to-ruhoh-with-proper-redirects.html]
+(http://blog.coolaj86.com/articles/migrate-from-blogger-to-ruhoh-with-proper-redirects.html)
+        - [http://staxmanade.com/2014/04/migrating-blogspot-to-octopress-part-6-301-redirect-old-posts-to-new-location/](http://staxmanade.com/2014/04/migrating-blogspot-to-octopress-part-6-301-redirect-old-posts-to-new-location/)
+    2. Blogger does not provide the ability to automatically set up a
+301 redirect. Nor does it provide a template variable that has just the
+permalink path, only the complete URL. Otherwise, redirection would have
+been easy, as the pages migrated over to Jekyll use the same permalink
+structure.
+    3. To workaround this, I first modified the migration tool to 
+generate a `redirect_from` key and a relative path value containing the 
+Blogger post ID (UUID).
+    4. Next, I added `<meta>` entries in my Blogger classic template to
+redirect users to the new domain, as well as redirect individual posts
+to the path containing the post ID.
+    5. This approach isn't perfect, as search pages (`/search?q=term`)
+and archives (`/2014/08/`) can't be redirected.
 
 [Blogger]: http://blogger.com/ "Blogger"
 [Flickr]:  http://flickr.com/  "Flickr"
