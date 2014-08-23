@@ -468,7 +468,13 @@ ul#year-archive-list > li > i {
   margin-right: .5em;
 }
 
-/* Comments */
+/* Comment container */
+
+/* Blogger comments */
+.comments {
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+}
 
 .css-full-comments-content {
   padding-top: 2rem;
