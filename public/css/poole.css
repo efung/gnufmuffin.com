@@ -579,3 +579,11 @@ a.pagination-item:hover {
     border-bottom-right-radius: 4px;
   }
 }
+
+/* Icon effects */
+.icon-twitter:hover {
+  color: #55ACEE;
+}
+.icon-rss:hover {
+  color: #FF9900;
+}
