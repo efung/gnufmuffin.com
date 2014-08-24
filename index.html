@@ -2,18 +2,29 @@
 layout: default
 title: "Do You Know the Muffin Man?"
 ---
+<div class="welcome" style="padding: 1rem; background: #FCF0AD; margin-bottom: 1rem;">
+  <i>2014-08-22</i>: Welcome to the new home and look of this site. Hope you like it!
+</div>
 
 <div class="posts">
-  {% assign post = site.posts[0] %}
+  {% assign front_page_posts = 3 %}
+  {% for post in site.posts limit:front_page_posts %}
   <div class="post">
     <h1 class="post-title"><a href="{{ post.url }}">{{ post.title }}</a></h1>
     <span class="post-date">{{ post.date | date: "%Y %b %d" }}</span>
 
-    {{ post.content }}
+    <div class="excerpt">
+      {% if post.thumbnail %}
+        <a href="{{ post.url }}"><img class="inlineleft" src="{{ post.thumbnail }}"></a>
+      {% endif %}
+      {{ post.excerpt }}…
+      <span class="continue"><a href="{{ post.url }}">Read more »</a></span>
+    </div>
   </div>
+  {% endfor %}
 
   <div class="pagination">
-    {% capture url %}{{ site.posts[1].date | date: "%Y/%m" }}{% endcapture %}
+    {% capture url %}{{ site.posts[front_page_posts].date | date: "%Y/%m" }}{% endcapture %}
     <a class="pagination-item" href="/{{ url }}/">More entries from {{ site.posts[1].date | date: '%B %Y' }}…</a>
   </div>
 </div>
