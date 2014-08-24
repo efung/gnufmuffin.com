@@ -13,7 +13,7 @@ module Jekyll
     end
 
     def paginate(site, dir, posts, year)
-      pager = Pager.new(site, 1, posts, 1)
+      pager = Jekyll::Paginate::Pager.new(site, 1, posts, 1)
       archive_path = "/" + dir
       path = archive_path
 
