@@ -5,7 +5,8 @@ title: "Colophon"
 # Hosting
 
 This site was originally managed using [Blogger][] and hosted at a
-<code>blogspot.com</code> domain. Now, it is a static site generated 
+<code>blogspot.com</code> domain. In August 2014, I converted it
+to a static site generated 
 using [Jekyll][] hosted on [GitHub Pages][] at a custom domain
 registered at [Hover][]. Images continue to be stored on [Flickr][], and
 video content on [YouTube][]. 
