@@ -19,3 +19,7 @@ tag_page_dir: tag
 
 gems:
     - jekyll-redirect-from
+
+collections:
+  recipes:
+    output: true
