@@ -1,7 +1,12 @@
 <!DOCTYPE html>
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en-us">
-  {% include head.html %}
-  <link rel="stylesheet" href="/public/css/recipe.css">
+  <head>
+    {% include head.html %}
+    <link rel="stylesheet" href="/public/css/recipe.css">
+    <title>
+      {{ page.title }} &middot; {{ site.title }}
+    </title>
+  </head>
   <body>
     {% include sidebar.html %}
     <div class="content container">
