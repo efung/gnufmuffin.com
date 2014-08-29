@@ -1,5 +1,14 @@
 require 'jekyll'
 require 'tmpdir'
+require 'stringex'
+
+source_dir      = "."         # source file directory
+deploy_dir      = "_site"     # deploy directory (for Github pages deployment)
+stash_dir       = "_stash"    # directory to stash posts for speedy generation
+posts_dir       = "_posts"    # directory for blog files
+new_post_ext    = "md"        # default new page file extension when using the new_page task
+
+
 
 # Usage:
 # bundle exec rake site:<task>
@@ -42,5 +51,36 @@ namespace :site do
 
     # Done.
   end
+
+  desc "Begin a new post in #{source_dir}/#{posts_dir}"
+  task :new_post, :title do |t, args|
+    if args.title
+      title = args.title
+    else
+      title = get_stdin("Enter a title for your post: ")
+    end
+    mkdir_p "#{source_dir}/#{posts_dir}"
+    filename = "#{Time.now.strftime('%Y-%m-%d')}-#{title.to_url}.#{new_post_ext}"
+    pathname = "#{source_dir}/#{posts_dir}/#{filename}"
+    if File.exist?(pathname)
+      abort("rake aborted!") if ask("#{pathname} already exists. Do you want to overwrite?", ['y', 'n']) == 'n'
+    end
+    puts "Creating new post: #{pathname}"
+    open(pathname, 'w') do |post|
+      post.puts "---"
+      post.puts "layout: post"
+      post.puts "title: \"#{title.gsub(/&/,'&amp;')}\""
+      post.puts "date: #{Time.now.strftime('%Y-%m-%d %H:%M:%S %z')}"
+      post.puts "comments: true"
+      post.puts "permalink: /#{Time.now.strftime('%Y/%m')}/#{filename}"
+      post.puts "tags: []"
+      post.puts "---"
+    end
+  end
+
 end
 
+def get_stdin(message)
+    print message
+    STDIN.gets.chomp
+end

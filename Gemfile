@@ -3,4 +3,4 @@ gem 'github-pages'
 gem 'jekyll'
 gem 'jekyll-tagging'
 gem 'jekyll-redirect-from'
-
+gem 'stringex', '~> 1.4.0'
