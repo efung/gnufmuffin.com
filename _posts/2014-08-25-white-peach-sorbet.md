@@ -3,7 +3,8 @@ layout: post
 title: "White Peach Sorbet"
 tags: [sorbet, peach, Momofuku, Milk Bar]
 date: "2014-08-25 08:00:00"
-permalink: /2014/08/25/white-peach-sorbet.html
+permalink: /2014/08/white-peach-sorbet.html
+redirect_from: /2014/08/25/white-peach-sorbet.html
 comments: true
 ---
 

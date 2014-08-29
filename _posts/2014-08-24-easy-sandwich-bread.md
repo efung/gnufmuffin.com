@@ -3,7 +3,8 @@ layout: post
 title: "Easy Sandwich Bread"
 tags: [Cook's Illustrated, bread]
 date: "2014-08-24 22:00:00"
-permalink: /2014/08/24/easy-sandwich-bread.html
+permalink: /2014/08/easy-sandwich-bread.html
+redirect_from: /2014/08/24/easy-sandwich-bread.html
 thumbnail: https://farm4.staticflickr.com/3918/15007565196_41beab630f_t.jpg
 comments: true
 ---
