@@ -8,7 +8,9 @@ My love of baking began as a little boy, helping my Mom in the kitchen.
 Now, my son [likes to bake
 too](https://www.youtube.com/watch?v=PqfQJCSHVGo).
 
-I try to never make the same thing twice.
+I try to never make the same thing twice. 
+
+There are [{{ site.tags['muffins'].size }} posts](/tag/muffins) about muffins on this blog.
 
 I currently live in Toronto, Canada with my wife, son and daughter.
 
