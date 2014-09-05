@@ -72,7 +72,7 @@ namespace :site do
       post.puts "title: \"#{title.gsub(/&/,'&amp;')}\""
       post.puts "date: #{Time.now.strftime('%Y-%m-%d %H:%M:%S %z')}"
       post.puts "comments: true"
-      post.puts "permalink: /#{Time.now.strftime('%Y/%m')}/#{filename}"
+      post.puts "permalink: /#{Time.now.strftime('%Y/%m')}/#{title.to_url}.html"
       post.puts "tags: []"
       post.puts "---"
     end
