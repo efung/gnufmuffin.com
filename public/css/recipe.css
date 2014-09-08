@@ -16,6 +16,11 @@
   font-weight: normal;
 }
 
+.recipe-summary {
+  margin-top: 1rem;
+  font-style: italic;
+}
+
 .recipe-about {
   margin-top: 1rem;
   padding: 0.5rem;
