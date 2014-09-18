@@ -19,7 +19,7 @@ Most of the time, I take photos of food near a window or outside,
 because I don't have a lightbox or bother with any sort of controlled
 lighting.
 
-If the photos nedd post-processing, I fix simple stuff like white balance
+If the photos need post-processing, I fix simple stuff like white balance
 or exposure using Mac OS X's Preview. [ImageMagick][] is what I use for 
 creating montages. 
 
