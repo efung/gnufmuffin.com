@@ -24,3 +24,5 @@ gems:
 collections:
   recipes:
     output: true
+  books:
+    output: false

@@ -3,10 +3,11 @@ layout: page
 title: Tags
 ---
 
-{% capture site_tags %}{% for tag in site.tags %}{{ tag | first }}{% unless forloop.last %},{% endunless %}{% endfor %}{% endcapture %}
-{% assign sorted_tags = site_tags | split:',' | sort %}
+{% capture tags_csv %}{% for tag in site.tags %}{{ tag | first }}{% unless forloop.last %},{% endunless %}{% endfor %}{% endcapture %}
+{% assign tags_array = tags_csv | split:',' %}
 <ul id="tags-archive-list">
-{% for tag in sorted_tags %}
-  <li>{{ tag | tag_link}} ({{ site.tags[tag].size }}) </li>
-{% endfor %}
+{% capture book_titles %}{{ site.books.first.content | split:',' }}{% endcapture %}
+{% sorted_for tag in tags_array %}
+  <li>{% if book_titles contains tag %}<i class="fa fa-book"></i>{% endif %} {{ tag | tag_link}} ({{ site.tags[tag].size }}) </li>
+{% endsorted_for %}
 </ul>
