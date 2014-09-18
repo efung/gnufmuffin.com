@@ -19,6 +19,7 @@ tag_page_dir: tag
 
 gems:
     - jekyll-redirect-from
+    - jekyll-sitemap
 
 collections:
   recipes:
