@@ -4,7 +4,11 @@
   <head>
   {% include head.html %}
   <title>
-    {{ page.title }} &middot; {{ site.title }}
+    {% if page.title == "Home" %}
+      {{ site.title }}
+    {% else %}
+      {{ page.title }} &middot; {{ site.title }}
+    {% endif %}
   </title>
   </head>
 
