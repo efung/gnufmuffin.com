@@ -14,8 +14,8 @@ There are [{{ site.tags['muffins'].size }} posts](/tag/muffins) about muffins on
 
 I currently live in Toronto, Canada with my wife, son and daughter.
 
-By day, I am a mobile developer at <a href="http://shopify.com/mobile">Shopify</a>. I've worked previously
-at Zynga, Five Mobile, RIM and Certicom.
+By day, I am a mobile software developer at [Shopify](http://shopify.com/mobile)
+in Toronto, Canada. I've worked previously at Zynga, Five Mobile, RIM and Certicom.
 
 The best way to contact me is 
 [efung@acm.org](mailto:efung@acm.org)
