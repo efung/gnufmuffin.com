@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "French Apple Tart (Cook's Illustrated)"
-date: 2014-10-19 22:59:59 -0400
+date: 2014-10-18 22:59:59 -0400
 comments: true
 permalink: /2014/10/french-apple-tart-cooks-illustrated.html
 tags: [tart, apple, Cook's Illustrated]
