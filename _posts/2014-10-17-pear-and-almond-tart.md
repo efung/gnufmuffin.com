@@ -4,21 +4,24 @@ title: "Poached Pear and Almond Tart"
 date: 2014-10-17 09:34:44 -0400
 comments: true
 permalink: /2014/10/pear-and-almond-tart.html
-tags: [tart, pear, frangipane]
+tags: [tart, pear, frangipane, Cook's Illustrated]
 thumbnail: https://farm6.staticflickr.com/5605/15542218016_8d99ac9f27_t.jpg
 ---
 
 As a dessert fruit, I like pears even better than apples. And so when my
 parents gifted us with a huge bag of Bosc pears from the [Waterdown Farmers'
 Market](http://www.waterdownfarmersmarket.ca/), I started looking for
-ways to use them. This pear and almond tart I ended up making is
+ways to use them. This pear and almond tart from Cook's Illustrated is
 quite possibly, the perfect fall dessert.
 
 Since I had so many pears, and because I just *happen* to have two
 11"-inch tart pans with removable bottoms, I decided to make two.
-First up was the frangipane. Let's just say that skinning 
-8 oz of almonds doesn't take a lot of time if you have Netflix.
-I made this the night before and put it in the fridge.
+The
+[recipe](http://www.cooksillustrated.com/recipes/393-poached-pear-and-almond-tart)
+comes from the Sep 2002 issue.  First up was the frangipane. Let's
+just say that skinning 8 oz of almonds doesn't take a lot of time
+if you have Netflix.  I made this the night before and put it in
+the fridge.
 
 The next evening, Dr. S made the poached pears, while I made the crust
 dough. We had a partial Chardonnay-Viognier bottle, and mixed

@@ -4,7 +4,7 @@ title: "Dutch Apple Pie"
 date: 2014-10-12 22:16:08 -0400
 comments: true
 permalink: /2014/10/dutch-apple-pie.html
-tags: [pie, apple]
+tags: [pie, apple, Cook's Illustrated]
 thumbnail: https://farm4.staticflickr.com/3950/15352470309_c2c1d16a48_t.jpg
 ---
 
