@@ -27,7 +27,8 @@ width="320" height="240" alt="French Apple Tart"></a>
 First, I took McIntosh apples and turned them into applesauce. I not
 only felt that it would be an acceptable substitute, but wanted to use 
 the last of the farm-picked ones anyway. To add depth to the sauce, the
-recipe also includes some apricot preserves (I could only find jam in
+[recipe](http://freshfromevaskitchen.blogspot.ca/2014/10/french-apple-tart.html) 
+also includes some apricot preserves (I could only find jam in
 the supermarket), butter and a pinch of salt.
 
 Making the crust was easy, as CI recommended just melting the butter,
