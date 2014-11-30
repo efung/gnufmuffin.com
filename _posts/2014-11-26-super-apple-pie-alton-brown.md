@@ -9,9 +9,8 @@ thumbnail: https://farm8.staticflickr.com/7553/15275799443_351cab1dcc_t.jpg
 ---
 
 Apple pie doesn't need a lot of improvement. Sure, there are crumble
-toppings, cream, raisins or even nuts thrown in the filling once
-in a while. But once in awhile, I come across a new version that catches
-my eye.
+toppings, cream, raisins or even nuts thrown in the filling sometimes.
+But once in awhile, I come across a new version that catches my eye.
 
 When I first saw this Alton Brown
 [recipe](http://www.foodnetwork.com/recipes/alton-brown/super-apple-pie-recipe.html),
