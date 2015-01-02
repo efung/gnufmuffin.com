@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "About Me"
+title: "About"
 ---
 This site began when I [wrote about](/gbc) taking baking classes at George Brown College.
 
