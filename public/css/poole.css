@@ -427,6 +427,29 @@ h1.post-title {
 }
 
 /* Archives */
+.tag-container {
+  overflow: hidden;
+  margin: 1.5rem 0 1.5rem 1.0rem;
+}
+
+.tag-thumbnail {
+  float: left;
+  width: 120px;
+}
+
+.tag-details {
+  display: block;
+  overflow: hidden;
+}
+
+.tag-thumbnail-placeholder {
+  width: 75px;
+  height: 75px;
+  text-align: center;
+  font-size: 60px;
+  color: #888;
+}
+
 ul#year-archive-list {
   list-style: none;
 }
