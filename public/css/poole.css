@@ -550,14 +550,9 @@ ul#year-archive-list > li > i {
   display: inline;
   list-style-type: none;
   font-variant: small-caps;
-}
-
-.tags li:after {
-  content: ", ";
-}
-
-.tags li:last-child:after {
-  content: "";
+  border-radius: 8px;
+  border: solid 1px #5B9CA2;
+  padding: 0.2em 0.4em;
 }
 
 /*
