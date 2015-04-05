@@ -540,12 +540,6 @@ ul#year-archive-list > li > i {
   padding-top: 1rem;
 }
 
-.tags:before {
-  content: "Tags";
-  color: #B52735;
-  font-style: bold;
-}
-
 .tags li {
   display: inline;
   list-style-type: none;
