@@ -237,10 +237,14 @@ blockquote p:last-child {
 }
 
 /* TODO efung: Don't do this global margin/padding */
+/* I force height here, since Flickr's auto-generated IMG tags
+ * include the width/height in pixels
+ */
 .content img {
   display: block;
   margin: 0 0 0rem;
   max-width: 100%;
+  height: auto !important;
   padding: 0.0rem;
   border: none; /* 1px solid #cccccc;*/
   box-shadow: none; /* 0 0 10px rgba(0, 0, 0, .2); */
