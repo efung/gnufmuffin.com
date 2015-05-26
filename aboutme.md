@@ -2,7 +2,7 @@
 layout: page
 title: "About"
 ---
-This site began when I [wrote about](/gbc) taking baking classes at George Brown College.
+This site began when I wrote about [taking baking classes](/gbc) at George Brown College.
 
 My love of baking began as a little boy, helping my Mom in the kitchen.
 Now, my son [likes to bake
