@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Challah (BBA)"
-date: 2015-05-25 22:35:49 -0400
+date: 2015-05-22 14:35:49 -0400
 comments: true
 permalink: /2015/05/challah-bba.html
 tags: [bread, challah, The Bread Bakers Apprentice]
