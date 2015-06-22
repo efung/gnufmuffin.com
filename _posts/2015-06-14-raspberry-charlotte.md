@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Raspberry Charlotte"
-date: 2015-06-19 10:38:00 -0400
+date: 2015-06-14 16:38:00 -0400
 comments: true
 permalink: /2015/06/raspberry-charlotte.html
 tags: [Cook's Illustrated, charlotte, raspberry, cake]

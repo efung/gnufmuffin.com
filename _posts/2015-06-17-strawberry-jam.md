@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Strawberry Jam"
-date: 2015-06-19 11:14:47 -0400
+date: 2015-06-17 23:14:47 -0400
 comments: true
 permalink: /2015/06/strawberry-jam.html
 tags: [preserving, jam, strawberry]
