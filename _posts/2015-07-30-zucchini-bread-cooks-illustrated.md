@@ -26,8 +26,10 @@ The
 [recipe](http://recipetools.gotdns.com/johnsmags/mags/CI/129/CI-129.html#Zucchini_Bread_with_Pistachios_and_Orange)
 is from Cook's Illustrated's August 2014 issue. Their key piece of
 advice is to squeeze out all the moisture from the grated zucchini to
-ensure the loaf isn't wet and gummy. We didn't have any cheesecloth or
-clean dish towels, so I just grabbed handfuls and squeezed the liquid
+ensure the loaf isn't wet and gummy. I didn't have a scale, so a
+conversion I found on the Internet suggested that 3 cups packed was
+equivalent to 1&frac12; pounds of grated zucchini. Without a cheesecloth
+or clean dish towels, I just grabbed handfuls and squeezed the liquid
 out manually. In a nod to health, I used less brown sugar than
 called for, by loosely filling my measuring cup, instead of packing it.
 
