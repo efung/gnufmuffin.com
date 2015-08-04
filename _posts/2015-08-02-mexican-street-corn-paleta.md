@@ -58,11 +58,12 @@ filled molds freeze for half an hour, I used the ice pop sticks to
 distribute the corn bits into the slush so they would be suspended
 evenly.
 
-These paletas really taste like Mexican street corn. The individual
-ingredients all combine to make an ice pop that is both sweet and
-savoury. There's a bit of textural interest too, since the roasted
-kernels come out kind of chewy. The corn we used wasn't the
-corniest, unfortunately, so the base flavour isn't very strong. 
+These paletas really taste like Mexican street corn, albeit colder and
+sweeter. The individual ingredients all combine to make an ice pop
+that's like a savoury dessert. There's a bit of textural interest
+too, since the roasted kernels come out kind of chewy. The corn we
+used wasn't the corniest, unfortunately, so the base flavour isn't
+very strong.
 
 I would not use the jalapeño in the future, or let it simmer for
 so long: it left an unpleasant vegetal taste and was a bit too
