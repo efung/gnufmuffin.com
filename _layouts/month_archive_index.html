@@ -18,7 +18,7 @@ layout: default
       {% if post.thumbnail %}
         <a href="{{ post.url }}"><img class="inlineleft" src="{{ post.thumbnail }}"></a>
       {% endif %}
-      {{ post.excerpt }}…
+      {{ post.excerpt | markdownify }}…
       <span class="continue"><a href="{{ post.url }}">Read&nbsp;more&nbsp;»</a></span>
     </div>
   </div>

@@ -18,6 +18,7 @@ tag_page_layout: tag_page
 tag_page_dir: tag
 
 gems:
+    - jekyll-paginate
     - jekyll-redirect-from
     - jekyll-sitemap
 
