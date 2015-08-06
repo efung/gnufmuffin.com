@@ -22,6 +22,6 @@ description: "Do You Know the Muffin Man? is Eric Fung's blog about baking and d
 
   <div class="pagination">
     {% capture url %}{{ site.posts[front_page_posts].date | date: "%Y/%m" }}{% endcapture %}
-    <a class="pagination-item" href="/{{ url }}/">More entries from {{ site.posts[1].date | date: '%b %Y' }}…</a>
+    <a class="pagination-item" href="/{{ url }}/">More entries from {{ site.posts[front_page_posts].date | date: '%b %Y' }}…</a>
   </div>
 </div>
