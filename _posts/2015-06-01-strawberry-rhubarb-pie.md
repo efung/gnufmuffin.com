@@ -9,7 +9,8 @@ thumbnail: https://farm1.staticflickr.com/307/17742528944_ac8e9727b6_t.jpg
 ---
 
 Next on the rhubarb checklist: the strawberry-rhubarb pie recipe
-in the May/June 2015 issue of [Cook's Illustrated](/tag/Cook's%20Illustrated/)
+in the May/June 2015 issue of [Cook's
+Illustrated](/tag/cook%27s-illustrated/)
 magazine. 
 
 The goals of the CI

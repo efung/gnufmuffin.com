@@ -9,7 +9,7 @@ thumbnail: https://farm1.staticflickr.com/491/19542759052_fa32065815_t.jpg
 ---
 
 Five separate components make up this this strawberry lemon layer
-cake from Momofuku [Milk Bar](/tag/Milk%20Bar/).
+cake from Momofuku [Milk Bar](/tag/milk-bar/).
 
 The
 [recipe](http://milkbarstore.com/main/press/recipes-and-how-tos/#strawberry)

@@ -10,7 +10,7 @@ thumbnail: https://farm6.staticflickr.com/5446/17679420451_442e559b68_t.jpg
 
 Yet another banana bread… This time the recipe comes from Michael Suas'
 book, [Advanced Bread and
-Pastry](/tag/Advanced%20Bread%20and%20Pastry/). Sadly, this recipe
+Pastry](/tag/advanced-bread-and-pastry/). Sadly, this recipe
 offered nothing new in terms of technique or flavour.
 
 <a href="https://www.flickr.com/photos/gnuf/17679420451" title="Banana

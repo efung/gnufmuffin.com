@@ -17,7 +17,7 @@ cheese brownies.
 
 The [recipe](http://heatherhomemade.com/2014/06/cream-cheese-brownies/)
 I used comes from the July/August 2014 issue of 
-[Cook's Illustrated](/tag/Cook%27s%20Illustrated). This isn't
+[Cook's Illustrated](/tag/cook%27s-illustrated/). This isn't
 the first time the magazine has tackled this exact treat (they published
 a recipe in January 1999), but they somehow felt a need to recycle the topic and
 improve on it some more.

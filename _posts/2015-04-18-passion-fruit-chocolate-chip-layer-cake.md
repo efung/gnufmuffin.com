@@ -8,7 +8,7 @@ tags: [passion fruit, Momofuku, Milk Bar, cake, chocolate]
 thumbnail: https://farm6.staticflickr.com/5446/17003926559_57ac21d743_t.jpg
 ---
 
-[Milk Bar](/tag/Milk%20Bar/) cakes are complicated, multi-step affairs,
+[Milk Bar](/tag/milk-bar/) cakes are complicated, multi-step affairs,
 doable in one day, but more practically made over several days. For a
 recent anniversary, I decided to tackle their chocolate chip layer cake,
 made with passion fruit and coffee flavours.

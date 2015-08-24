@@ -14,7 +14,7 @@ on a cookie dough that required refrigeration, i.e. left outside in the
 snow, and could be baked at our friend's house after dinner.
 
 Having made a few things from the [Bouchon
-Bakery](/tag/Bouchon%20Bakery) book before, I knew that I'd have to
+Bakery](/tag/bouchon-bakery/) book before, I knew that I'd have to
 carefully weigh everything, even eggs. The
 [recipe](http://joanne-eatswellwithothers.com/2013/11/bouchon-bakery-chocolate-chunk-and-chip-cookies.html)
 is pretty straightforward though. Here is my mise en place, clockwise

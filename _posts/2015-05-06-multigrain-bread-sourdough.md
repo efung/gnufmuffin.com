@@ -11,7 +11,7 @@ thumbnail: https://farm8.staticflickr.com/7710/16782932763_47be37447c_t.jpg
 There's a first time for everything, and this past week, I baked my
 first few loaves of sourdough, using a starter I built up from scratch.
 
-In the [Bouchon Bakery](/tag/Bouchon%20Bakery/) book, the authors give a
+In the [Bouchon Bakery](/tag/bouchon-bakery/) book, the authors give a
 formula for a _liquid levain_, a high hydration starter. To encourage
 active development, the feeding schedule for the first four days is
 twice daily. I wasn't very rigorous about the time or materials, and 

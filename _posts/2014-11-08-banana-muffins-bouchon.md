@@ -9,7 +9,7 @@ thumbnail: https://farm8.staticflickr.com/7560/15601959100_17aa39a1cc_t.jpg
 ---
 
 I love a good deal, and when I saw a used copy of [Bouchon
-Bakery](/tag/Bouchon%20Bakery) online, I bought it right away.
+Bakery](/tag/bouchon-bakery/) online, I bought it right away.
 Thomas Keller has a number of restaurants that I've
 never eaten at, save for one brunch at [Bouchon
 Bistro](https://secure.flickr.com/photos/gnuf/4843552858/in/set-72157624615076766)

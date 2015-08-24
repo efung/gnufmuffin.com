@@ -9,7 +9,7 @@ thumbnail: https://farm8.staticflickr.com/7722/17381728982_b65c6b3c20_t.jpg
 ---
 
 These past two weeks, I have been nurturing a sourdough starter
-using the directions in [Bouchon Bakery](/tag/Bouchon%20Bakery).
+using the directions in [Bouchon Bakery](/tag/bouchon-bakery/).
 Using the liquid levain I've been feeding on a daily (sometimes
 twice-daily) basis, I made four loaves of walnut bread this week,
 perhaps the best bread I've ever made. I'll write more about the 

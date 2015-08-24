@@ -10,7 +10,7 @@ thumbnail: https://farm8.staticflickr.com/7580/15297307804_3275d72f24_t.jpg
 
 We were in charge of dessert again for a monthly Friday night
 potluck.  I've been making a lot of
-[apple](http://www.gnufmuffin.com/tag/apple/) things recently, so
+[apple](/tag/apple/) things recently, so
 I thought it would be good to change things up. What better than a
 warm tart, made of chocolate and banana? Why, two tarts, of course!
 

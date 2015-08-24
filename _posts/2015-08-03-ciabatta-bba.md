@@ -14,7 +14,7 @@ farmer's market. I took the opportunity to make the ciabatta from
 the book I learned to bake bread from.
 
 Peter Reinhart's [The Bread Bakers
-Apprentice](/tag/The%20Bread%20Bakers%20Apprentice/) is full of
+Apprentice](/tag/the-bread-bakers-apprentice/) is full of
 information, photos and recipes and I consider it an essential reference
 for bread. The ciabatta
 [recipe](https://www.reddit.com/r/Breadit/comments/1x4uh0/ciabatta_from_peter_reinharts_bread_bakers/)

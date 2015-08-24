@@ -12,7 +12,7 @@ These peanut-butter filled oatmeal sandwich cookies looked simple,
 but this weekend project ended up being spread over three days.
 
 The [recipe](http://www.saveur.com/article/Recipes/Better-Nutters)
-comes from [Bouchon Bakery](/tag/Bouchon%20Bakery), and is the latest
+comes from [Bouchon Bakery](/tag/bouchon-bakery/), and is the latest
 stop in my random walk through the book. It's based on the [Nutter
 Butter](https://en.wikipedia.org/wiki/Nutter_Butter) which Wikipedia
 tells me has been on the market for over 40 years. I've never had one

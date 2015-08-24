@@ -9,7 +9,7 @@ thumbnail: https://farm9.staticflickr.com/8670/16632932051_5b6d536f48_s.jpg
 ---
 
 It's rare that I come across a muffin that really impresses me, but
-these carrot muffins from [Bouchon Bakery](/tag/Bouchon%20Bakery/)
+these carrot muffins from [Bouchon Bakery](/tag/bouchon-bakery/)
 were outstanding.
 
 Like every muffin in the cookbook, the

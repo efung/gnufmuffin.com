@@ -9,7 +9,7 @@ thumbnail: https://farm9.staticflickr.com/8753/16607832489_92f0d82a53_s.jpg
 ---
 
 I'm about halfway through all the muffin recipes in [Bouchon
-Bakery](/tag/Bouchon Bakery), and finally got around to making one of my
+Bakery](/tag/bouchon-bakery/), and finally got around to making one of my
 favourite varieties, blueberry.
 
 <a href="https://www.flickr.com/photos/gnuf/16783785542"

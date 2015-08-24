@@ -10,7 +10,7 @@ thumbnail: https://farm9.staticflickr.com/8641/16053802856_ed61a55987_t.jpg
 
 Our Hanukkah celebrations this year have involved many other families,
 mostly in the form of potlucks. So I didn't need to make any dessert
-as other people brought doughnuts, unlike [past years](/tag/Hanukkah/). 
+as other people brought doughnuts, unlike [past years](/tag/hanukkah/). 
 Still, I wanted to make _something_ I hadn't made before using olive oil, 
 and produced this delicious cake.
 

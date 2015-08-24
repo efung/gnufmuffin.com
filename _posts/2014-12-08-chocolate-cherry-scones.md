@@ -14,7 +14,7 @@ recently, I came back to Toronto wanting to bake my own scones. Fortunately,
 the Bouchon book offered an irresistible recipe.
 
 Irresistible, that is, to my 3-year old son who loves anything
-chocolate. Like the muffins in [Bouchon Bakery](/tag/Bouchon%20Bakery),
+chocolate. Like the muffins in [Bouchon Bakery](/tag/bouchon-bakery/),
 the
 [recipe](http://sweetsundaymornings.com/post/42746231207/chocolate-cherry-scones)
 for these scones requires some advance planning.  In this case, the

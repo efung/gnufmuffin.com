@@ -13,7 +13,8 @@ enjoy them at special occasions (or any other time, I suppose).
 With fall weather approaching, I dug up a recipe from one of my favourite 
 baking books, and made caramel apple cheesecake this week.
 
-[Regan Daley](http://www.regandaley.com/)'s [In The Sweet Kitchen](/tag/In%20The%20Sweet%20Kitchen)
+[Regan Daley](http://www.regandaley.com/)'s [In The Sweet
+Kitchen](/tag/in-the-sweet-kitchen/)
 is one of my favourite baking guides; her flavours, combinations and
 creativity appeal to me. Her recipe for this cheesecake required two
 things I didn't have on hand: oatmeal cookies and dried apple rings.

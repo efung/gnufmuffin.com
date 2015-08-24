@@ -10,7 +10,7 @@ thumbnail: https://farm1.staticflickr.com/266/18548468205_5150ef1435_t.jpg
 
 Before rhubarb fatigue sets in, I found a recipe I'd never
 made before in one of my favourite books, 
-[_In The Sweet Kitchen_](/tag/In%20The%20Sweet%20Kitchen/). This tart
+[_In The Sweet Kitchen_](/tag/in-the-sweet-kitchen/). This tart
 has a baked custard base encasing poached rhubarb and candied ginger, and a
 crunchy sugar layer on top.
 
