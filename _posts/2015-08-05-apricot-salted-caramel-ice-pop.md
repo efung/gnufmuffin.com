@@ -4,7 +4,7 @@ title: "Apricot Salted Caramel Ice Pop"
 date: 2015-08-05 21:56:33 -0400
 comments: true
 permalink: /2015/08/apricot-salted-caramel-ice-pop.html
-tags: [ice pop, caramel, apricot]
+tags: [ice pops, caramel, apricot]
 thumbnail: https://farm1.staticflickr.com/466/20181642240_2644ce4ecc_t.jpg
 ---
 
