@@ -1,4 +1,4 @@
-[[---]]
+---
 layout: post
 title: "Chocolate-Caramel Layer Cake"
 date: 2015-09-03 20:50:20 -0400
