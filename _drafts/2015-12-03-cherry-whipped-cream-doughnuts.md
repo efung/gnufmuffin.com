@@ -4,7 +4,7 @@ title: "Cherry-Whipped Cream Doughnuts"
 date: 2015-12-03 23:34:33 -0500
 comments: true
 permalink: /2015/12/cherry-whipped-cream-doughnuts.html
-tags: []
+tags: [doughnut, cherry, Hanukkah]
 thumbnail:
 ---
 
