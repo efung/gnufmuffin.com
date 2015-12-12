@@ -12,29 +12,23 @@
   <!-- Enable responsiveness on mobile devices-->
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
 
-  <!-- CSS -->
   <link rel="stylesheet" href="/public/css/poole.css">
   <link rel="stylesheet" href="/public/css/syntax.css">
   <link rel="stylesheet" href="/public/css/hyde.css">
   <link rel='stylesheet' href='http://fonts.googleapis.com/css?family=Lora|Montserrat:700|Source+Code+Pro' type='text/css'>
   <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css">
 
-  <!-- Icons -->
-
-  <!-- RSS -->
   <link rel="alternate" type="application/rss+xml" title="RSS" href="/atom.xml">
 
   {% if page.excerpt and page.thumbnail %}
-  <!-- Twitter Card + Open Graph -->
   <meta name="twitter:card" content="summary">
   <meta name="twitter:site" content="@gnufmuffin">
-
-  <meta property="og:title" content="{{ page.title }}" />
-  <meta property="og:type" content="article" />
-  <meta property="og:url" content="{{ site.url | append: page.url }}" />
-  <meta property="og:image" content="{{ page.thumbnail }}" />
-  <meta property="og:description" content="{{ page.excerpt | strip_html }}" />
+  <meta name="twitter:title" property="og:title" content="{{ page.title }}" />
+  <meta name="twitter:url" property="og:url" content="{{ site.url | append: page.url }}" />
+  <meta name="twitter:image" property="og:image" content="{{ page.thumbnail }}" />
+  <meta name="twitter:description" property="og:description" content="{{ page.excerpt | strip_html }}" />
   <meta property="og:site_name" content="{{ site.title }}" />
+  <meta property="og:type" content="article" />
   <meta property="og:article:author" content="{{ site.author.name }}" />
 
   {% endif %}
