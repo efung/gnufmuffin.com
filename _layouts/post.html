@@ -4,8 +4,26 @@ layout: default
 
 <div class="post">
   <div class="post-header">
+    <ol itemscope itemtype="http://schema.org/BreadcrumbList" id="breadcrumb">
+      <li itemprop="itemListElement" itemscope
+          itemtype="http://schema.org/ListItem">
+        <a itemprop="item" href="{{ page.date | date: '/%Y/' }}">
+            <span itemprop="name">{{ page.date | date: '%Y' }}</span></a>
+        <meta itemprop="position" content="1" />
+      </li> ›
+      <li itemprop="itemListElement" itemscope
+          itemtype="http://schema.org/ListItem">
+        <a itemprop="item" href="{{ page.date | date: '/%Y/%m/' }}">
+            <span itemprop="name">{{ page.date | date: '%b' }}</span></a>
+        <meta itemprop="position" content="2" />
+      </li> ›
+      <li itemprop="itemListElement" itemscope
+          itemtype="http://schema.org/ListItem">
+          <span itemprop="name">{{ page.date | date: '%d' }}</span>
+        <meta itemprop="position" content="3" />
+      </li>
+    </ol>
     <h1 class="post-title">{{ page.title }}</h1>
-    <span class="post-date">{{ page.date | date: "%Y %b %d" }}</span>
   </div>
   {{ content }}
 

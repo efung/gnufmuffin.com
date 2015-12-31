@@ -118,6 +118,17 @@ ul, ol, dl {
   margin-bottom: 1rem;
 }
 
+ol#breadcrumb {
+  padding: 0;
+  margin: 0;
+  list-style-type: none;
+  font-size: 75%;
+}
+
+ol#breadcrumb li {
+  display: inline
+}
+
 div.post ul {
   columns: 1;
   -webkit-columns: 1;
