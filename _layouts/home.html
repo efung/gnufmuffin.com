@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml"
+      prefix="og: http://ogp.me/ns#"
+      xml:lang="en" lang="en-us">
+
+  <head itemscope itemtype="http://schema.org/WebSite">
+  <title itemprop='name'>{{ site.title }}</title>
+  <link rel="canonical" href="http://www.gnufmuffin.com/" itemprop="url">
+  {% include head.html %}
+  </head>
+
+  <body>
+
+    {% include sidebar.html %}
+
+    <div class="content container">
+      {{ content }}
+    </div>
+
+  </body>
+</html>
