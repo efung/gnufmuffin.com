@@ -5,7 +5,7 @@ date: 2014-11-26 22:13:25 -0500
 comments: true
 permalink: /2014/11/super-apple-pie-alton-brown.html
 tags: [pie, apple]
-thumbnail: https://farm8.staticflickr.com/7553/15275799443_351cab1dcc_t.jpg
+thumbnail: https://farm8.staticflickr.com/7553/15275799443_351cab1dcc_q.jpg
 ---
 
 Apple pie doesn't need a lot of improvement. Sure, there are crumble

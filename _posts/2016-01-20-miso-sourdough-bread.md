@@ -5,7 +5,7 @@ date: 2016-01-20 08:15:48 -0500
 comments: true
 permalink: /2016/01/miso-sourdough-bread.html
 tags: [bread, miso]
-thumbnail: https://c2.staticflickr.com/2/1611/23884468324_102326961f_t.jpg
+thumbnail: https://c2.staticflickr.com/2/1611/23884468324_102326961f_q.jpg
 ---
 
 As someone who purposefully looks to try new recipes on a constant

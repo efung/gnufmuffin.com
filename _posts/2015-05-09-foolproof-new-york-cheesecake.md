@@ -5,7 +5,7 @@ date: 2015-05-09 11:00:05 -0400
 comments: true
 permalink: /2015/05/foolproof-new-york-cheesecake.html
 tags: [cheesecake, Cook's Illustrated]
-thumbnail: https://farm8.staticflickr.com/7763/17357062900_68a6aaffdd_t.jpg
+thumbnail: https://farm8.staticflickr.com/7763/17357062900_68a6aaffdd_q.jpg
 ---
 
 For Mother's Day, we had a picnic with family in Spencer Smith Park

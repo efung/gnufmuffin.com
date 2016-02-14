@@ -6,7 +6,7 @@ uuid: "111668400955489636"
 guid: "tag:blogger.com,1999:blog-12031240.post-111668400955489636"
 date: "2005-05-21 13:56:00"
 updated: "2014-06-29 02:59:19"
-thumbnail: "https://farm1.staticflickr.com/9/14914344_d25c2a6b55_t.jpg"
+thumbnail: "https://farm1.staticflickr.com/9/14914344_d25c2a6b55_q.jpg"
 description: 
 blogger:
     siteid: "12031240"

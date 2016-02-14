@@ -5,7 +5,7 @@ tags: [challah, jewish, bread]
 date: "2014-08-22 09:00:00"
 permalink: /2014/08/scallion-pancake-challah.html
 redirect_from: /2014/08/22/scallion-pancake-challah.html
-thumbnail: https://farm4.staticflickr.com/3885/14843898370_de9c634e1f_t.jpg
+thumbnail: https://farm4.staticflickr.com/3885/14843898370_de9c634e1f_q.jpg
 comments: true
 ---
 

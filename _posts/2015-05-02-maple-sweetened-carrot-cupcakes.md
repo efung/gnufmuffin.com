@@ -5,7 +5,7 @@ date: 2015-05-02 15:56:03 -0400
 comments: true
 permalink: /2015/05/maple-sweetened-carrot-cupcakes.html
 tags: [cupcakes, carrot, maple]
-thumbnail: https://farm8.staticflickr.com/7736/17162570860_61984e595e_t.jpg
+thumbnail: https://farm8.staticflickr.com/7736/17162570860_61984e595e_q.jpg
 ---
 
 While browsing for relatively healthy cupcakes for a celebration on

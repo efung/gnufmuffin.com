@@ -5,7 +5,7 @@ date: 2014-10-11 08:33:35 -0400
 comments: true
 permalink: /2014/10/carrot-apple-and-pecan-muffins.html
 tags: [muffins, Ottolenghi, apple, carrot]
-thumbnail: https://farm6.staticflickr.com/5602/15353458560_8af402b9cb_t.jpg
+thumbnail: https://farm6.staticflickr.com/5602/15353458560_8af402b9cb_q.jpg
 ---
 
 Muffins that feature an abundance of fruit, nuts and seeds are

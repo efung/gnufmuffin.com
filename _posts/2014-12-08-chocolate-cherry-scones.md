@@ -5,7 +5,7 @@ date: 2014-12-08 08:21:50 -0500
 comments: true
 permalink: /2014/12/chocolate-cherry-scones.html
 tags: [chocolate, dried cherry, Bouchon Bakery, scones]
-thumbnail: https://farm8.staticflickr.com/7582/15807503990_6c4b78d040_t.jpg
+thumbnail: https://farm8.staticflickr.com/7582/15807503990_6c4b78d040_q.jpg
 ---
 
 After eating breakfast at [The Scone

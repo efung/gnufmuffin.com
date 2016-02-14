@@ -5,7 +5,7 @@ date: 2014-10-20 06:28:43 -0400
 comments: true
 permalink: /2014/10/multigrain-boule.html
 tags: [bread, whole wheat]
-thumbnail: https://farm4.staticflickr.com/3933/14980272913_677e58554f_t.jpg
+thumbnail: https://farm4.staticflickr.com/3933/14980272913_677e58554f_q.jpg
 ---
 
 On Sunday evening, before heading off for a few days in Ottawa, I made a

@@ -5,7 +5,7 @@ date: 2015-05-06 19:46:42 -0400
 comments: true
 permalink: /2015/05/multigrain-bread-sourdough.html
 tags: [Bouchon Bakery, multigrain, sourdough, bread]
-thumbnail: https://farm8.staticflickr.com/7710/16782932763_47be37447c_t.jpg
+thumbnail: https://farm8.staticflickr.com/7710/16782932763_47be37447c_q.jpg
 ---
 
 There's a first time for everything, and this past week, I baked my

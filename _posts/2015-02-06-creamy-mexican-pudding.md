@@ -5,7 +5,7 @@ date: 2015-02-06 21:03:24 -0500
 comments: true
 permalink: /2015/02/creamy-mexican-pudding.html
 tags: [chocolate, pudding, Cook's Illustrated]
-thumbnail: https://farm8.staticflickr.com/7329/15848757873_49e9c94690_t.jpg
+thumbnail: https://farm8.staticflickr.com/7329/15848757873_49e9c94690_q.jpg
 ---
 
 Mexican *chocolate* pudding, that is. The Cook's Illustrated website

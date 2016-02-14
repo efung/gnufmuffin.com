@@ -5,7 +5,7 @@ date: 2014-10-18 22:59:59 -0400
 comments: true
 permalink: /2014/10/french-apple-tart-cooks-illustrated.html
 tags: [tart, apple, Cook's Illustrated]
-thumbnail: https://farm4.staticflickr.com/3942/15597770861_27c5ecd66c_t.jpg
+thumbnail: https://farm4.staticflickr.com/3942/15597770861_27c5ecd66c_q.jpg
 ---
 
 At the Friday potluck, we invited friends over for dinner the next

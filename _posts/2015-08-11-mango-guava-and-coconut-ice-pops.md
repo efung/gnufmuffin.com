@@ -5,7 +5,7 @@ date: 2015-08-11 09:11:46 -0400
 comments: true
 permalink: /2015/08/mango-guava-and-coconut-ice-pops.html
 tags: [ice pops, mango, guava, coconut]
-thumbnail: https://farm6.staticflickr.com/5716/20491351602_c3db5884b1_t.jpg
+thumbnail: https://farm6.staticflickr.com/5716/20491351602_c3db5884b1_q.jpg
 ---
 
 While shopping in Little India, we tried to buy a case of mangoes from

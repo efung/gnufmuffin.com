@@ -5,7 +5,7 @@ date: 2015-04-04 20:32:19 -0400
 comments: true
 permalink: /2015/04/cara-cara-orange-curd.html
 tags: [curd, orange, Passover]
-thumbnail: https://farm9.staticflickr.com/8822/17034004852_3669b13257_t.jpg
+thumbnail: https://farm9.staticflickr.com/8822/17034004852_3669b13257_q.jpg
 ---
 
 Flick and I made all three Seder desserts ahead of time on

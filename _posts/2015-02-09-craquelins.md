@@ -5,7 +5,7 @@ date: 2015-02-09 09:59:14 -0500
 comments: true
 permalink: /2015/02/craquelins.html
 tags: [brioche, Bouchon Bakery, orange]
-thumbnail: https://farm9.staticflickr.com/8639/15869233274_6e15474304_t.jpg
+thumbnail: https://farm9.staticflickr.com/8639/15869233274_6e15474304_q.jpg
 ---
 
 Brioche isn't good for you. With a flour-butter ratio of 2:1 or even

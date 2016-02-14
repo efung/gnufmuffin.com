@@ -5,7 +5,7 @@ date: 2014-11-27 20:36:42 -0500
 comments: true
 permalink: /2014/12/warm-chocolate-and-banana-tart.html
 tags: [Desserts by Pierre Herme, tart, chocolate, banana]
-thumbnail: https://farm8.staticflickr.com/7580/15297307804_3275d72f24_t.jpg
+thumbnail: https://farm8.staticflickr.com/7580/15297307804_3275d72f24_q.jpg
 ---
 
 We were in charge of dessert again for a monthly Friday night

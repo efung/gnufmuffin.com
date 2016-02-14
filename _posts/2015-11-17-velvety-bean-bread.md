@@ -5,7 +5,7 @@ date: 2015-11-17 14:20:40 -0500
 comments: true
 permalink: /2015/11/velvety-bean-bread.html
 tags: [Homebaking, bread]
-thumbnail: https://c1.staticflickr.com/1/642/22470675174_f76dfc31b5_t.jpg
+thumbnail: https://c1.staticflickr.com/1/642/22470675174_f76dfc31b5_q.jpg
 ---
 
 Another untried bread from [Homebaking](/tag/homebaking/) was

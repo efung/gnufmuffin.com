@@ -5,7 +5,7 @@ date: 2015-08-12 08:29:58 -0400
 comments: true
 permalink: /2015/08/campton-place-coffee-cake.html
 tags: [cake, coffee cake, peach, Desserts by the Yard]
-thumbnail: https://farm1.staticflickr.com/466/20325394670_4182f52ae4_t.jpg
+thumbnail: https://farm1.staticflickr.com/466/20325394670_4182f52ae4_q.jpg
 ---
 
 At the [Withrow Park Farmers' Market](http://withrowmarket.com/) this

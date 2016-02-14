@@ -5,7 +5,7 @@ date: 2015-06-12 19:29:34 -0400
 comments: true
 permalink: /2015/06/challah-second-helpings.html
 tags: [bread, challah, jewish]
-thumbnail: https://farm1.staticflickr.com/416/18125955244_22e3122952_t.jpg
+thumbnail: https://farm1.staticflickr.com/416/18125955244_22e3122952_q.jpg
 ---
 
 After partaking of an amazing challah at a friend's Shabbat a few weeks

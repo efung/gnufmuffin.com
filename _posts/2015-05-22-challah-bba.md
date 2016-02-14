@@ -5,7 +5,7 @@ date: 2015-05-22 14:35:49 -0400
 comments: true
 permalink: /2015/05/challah-bba.html
 tags: [bread, challah, The Bread Bakers Apprentice]
-thumbnail: https://farm9.staticflickr.com/8893/17354445514_71eed34b1c_t.jpg
+thumbnail: https://farm9.staticflickr.com/8893/17354445514_71eed34b1c_q.jpg
 ---
 
 As I [mentioned last year](/2014/04/peter-reinharts-challah.html), I've

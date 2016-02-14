@@ -5,7 +5,7 @@ date: 2014-12-25 12:35:18 -0500
 comments: true
 permalink: /2014/12/perfect-brownies-yvonne-ruperti.html
 tags: [chocolate, brownies]
-thumbnail: https://farm8.staticflickr.com/7537/15917417849_4973d350c6_t.jpg
+thumbnail: https://farm8.staticflickr.com/7537/15917417849_4973d350c6_q.jpg
 ---
 
 For a Christmas lunch we were invited to, I wanted to make something

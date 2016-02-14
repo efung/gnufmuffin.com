@@ -6,7 +6,7 @@ uuid: "112903287633579332"
 guid: "tag:blogger.com,1999:blog-12031240.post-112903287633579332"
 date: "2005-10-11 12:13:00"
 updated: "2007-10-23 02:36:09"
-thumbnail: "http://static.flickr.com/31/51534156_0643523305_t.jpg"
+thumbnail: "http://static.flickr.com/31/51534156_0643523305_q.jpg"
 description: 
 blogger:
     siteid: "12031240"

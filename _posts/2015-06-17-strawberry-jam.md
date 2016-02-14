@@ -5,7 +5,7 @@ date: 2015-06-17 23:14:47 -0400
 comments: true
 permalink: /2015/06/strawberry-jam.html
 tags: [preserving, jam, strawberry]
-thumbnail: https://farm1.staticflickr.com/450/18954020142_7e095845b4_t.jpg
+thumbnail: https://farm1.staticflickr.com/450/18954020142_7e095845b4_q.jpg
 ---
 
 We visited [Springridge Farm](http://www.springridgefarm.com/) this week

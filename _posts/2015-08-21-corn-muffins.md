@@ -5,7 +5,7 @@ date: 2015-08-21 22:05:03 -0400
 comments: true
 permalink: /2015/08/corn-muffins.html
 tags: [muffins, corn, cornmeal, Bouchon Bakery]
-thumbnail: https://farm1.staticflickr.com/780/20569714088_697eef6248_t.jpg
+thumbnail: https://farm1.staticflickr.com/780/20569714088_697eef6248_q.jpg
 ---
 
 It's peak corn season in Ontario, and we bought 15 ears at St. Lawrence

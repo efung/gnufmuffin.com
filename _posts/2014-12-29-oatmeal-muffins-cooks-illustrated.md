@@ -5,7 +5,7 @@ date: 2014-12-29 11:18:09 -0500
 comments: true
 permalink: /2014/12/oatmeal-muffins-cooks-illustrated.html
 tags: [muffins, oatmeal, Cook's Illustrated]
-thumbnail: https://farm8.staticflickr.com/7538/15519135293_882b06791f_t.jpg
+thumbnail: https://farm8.staticflickr.com/7538/15519135293_882b06791f_q.jpg
 ---
 
 We've been eating a lot of toast for breakfast recently, so it was time

@@ -5,7 +5,7 @@ date: 2015-12-11 08:53:09 -0500
 comments: true
 permalink: /2015/12/olive-oil-and-sweet-wine-cake.html
 tags: [In The Sweet Kitchen, cake, Hanukkah, olive oil]
-thumbnail: https://c1.staticflickr.com/1/693/23614625952_0f5bae0189_t.jpg
+thumbnail: https://c1.staticflickr.com/1/693/23614625952_0f5bae0189_q.jpg
 ---
 
 Continuing in the theme of cooking with oil during

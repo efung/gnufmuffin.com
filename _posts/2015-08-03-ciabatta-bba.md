@@ -5,7 +5,7 @@ date: 2015-08-03 22:24:17 -0400
 comments: true
 permalink: /2015/08/ciabatta-bba.html
 tags: [The Bread Bakers Apprentice, bread]
-thumbnail: https://farm1.staticflickr.com/488/20257412892_7c9526ed38_t.jpg
+thumbnail: https://farm1.staticflickr.com/488/20257412892_7c9526ed38_q.jpg
 ---
 
 For the Civic Holiday Monday, we were invited for dinner and wanted to

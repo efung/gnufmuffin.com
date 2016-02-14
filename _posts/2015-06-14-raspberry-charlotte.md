@@ -5,7 +5,7 @@ date: 2015-06-14 16:38:00 -0400
 comments: true
 permalink: /2015/06/raspberry-charlotte.html
 tags: [Cook's Illustrated, charlotte, raspberry, cake]
-thumbnail: https://farm6.staticflickr.com/5546/18625352818_0cfa1fdc08_t.jpg
+thumbnail: https://farm6.staticflickr.com/5546/18625352818_0cfa1fdc08_q.jpg
 ---
 
 From time to time, we get invited to dinner, and invited to make dessert

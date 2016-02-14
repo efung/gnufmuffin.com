@@ -5,7 +5,7 @@ date: 2015-11-30 07:32:57 -0500
 comments: true
 permalink: /2015/11/bacon-cheddar-scones.html
 tags: [scones, bacon]
-thumbnail: https://c2.staticflickr.com/6/5728/23124914610_394d9e26df_t.jpg
+thumbnail: https://c2.staticflickr.com/6/5728/23124914610_394d9e26df_q.jpg
 ---
 
 I'm starting to go back into the office again, after working from

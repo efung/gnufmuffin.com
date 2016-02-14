@@ -4,7 +4,7 @@ title: "Whole Wheat Challah"
 date: 2014-09-05 18:38:53 -0400
 comments: true
 permalink: /2014/09/whole-wheat-challah.html
-thumbnail: https://farm6.staticflickr.com/5559/14983984078_24865b62fe_t.jpg
+thumbnail: https://farm6.staticflickr.com/5559/14983984078_24865b62fe_q.jpg
 tags: [challah, whole wheat, bread, Whole Grain Breads]
 ---
 

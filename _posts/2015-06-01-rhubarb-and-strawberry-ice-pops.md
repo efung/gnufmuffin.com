@@ -5,7 +5,7 @@ date: 2015-06-01 11:43:31 -0400
 comments: true
 permalink: /2015/06/rhubarb-and-strawberry-ice-pops.html
 tags: [ice pops, strawberry, rhubarb]
-thumbnail: https://farm1.staticflickr.com/364/18403669611_d7b00ea3e8_t.jpg
+thumbnail: https://farm1.staticflickr.com/364/18403669611_d7b00ea3e8_q.jpg
 ---
 
 My family often samples the ice pops offered by

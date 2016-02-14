@@ -5,7 +5,7 @@ date: 2015-06-01 19:52:20 -0400
 comments: true
 permalink: /2015/06/strawberry-rhubarb-pie.html
 tags: [strawberry, pie, rhubarb, Cook's Illustrated]
-thumbnail: https://farm1.staticflickr.com/307/17742528944_ac8e9727b6_t.jpg
+thumbnail: https://farm1.staticflickr.com/307/17742528944_ac8e9727b6_q.jpg
 ---
 
 Next on the rhubarb checklist: the strawberry-rhubarb pie recipe

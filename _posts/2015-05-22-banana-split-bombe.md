@@ -5,7 +5,7 @@ date: 2015-05-22 20:01:29 -0400
 comments: true
 permalink: /2015/05/banana-split-bombe.html
 tags: [ice cream, cake, chocolate, banana]
-thumbnail: https://farm6.staticflickr.com/5456/17362751664_c869c30863_t.jpg
+thumbnail: https://farm6.staticflickr.com/5456/17362751664_c869c30863_q.jpg
 ---
 
 We've established a tradition of cupcakes for birthdays in our family.

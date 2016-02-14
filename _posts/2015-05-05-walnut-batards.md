@@ -5,7 +5,7 @@ date: 2015-05-05 18:04:51 -0400
 comments: true
 permalink: /2015/05/walnut-batards.html
 tags: [Bouchon Bakery, bread, sourdough, walnut]
-thumbnail: https://farm8.staticflickr.com/7722/17381728982_b65c6b3c20_t.jpg
+thumbnail: https://farm8.staticflickr.com/7722/17381728982_b65c6b3c20_q.jpg
 ---
 
 These past two weeks, I have been nurturing a sourdough starter

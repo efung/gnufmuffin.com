@@ -5,7 +5,7 @@ date: 2015-08-05 21:56:33 -0400
 comments: true
 permalink: /2015/08/apricot-salted-caramel-ice-pop.html
 tags: [ice pops, caramel, apricot]
-thumbnail: https://farm1.staticflickr.com/466/20181642240_2644ce4ecc_t.jpg
+thumbnail: https://farm1.staticflickr.com/466/20181642240_2644ce4ecc_q.jpg
 ---
 
 This past weekend's market trip netted us 7L each of apricots and

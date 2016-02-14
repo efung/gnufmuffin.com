@@ -5,7 +5,7 @@ date: 2014-11-08 06:49:31 -0500
 comments: true
 permalink: /2014/11/banana-muffins-bouchon.html
 tags: [muffins, banana, Bouchon Bakery]
-thumbnail: https://farm8.staticflickr.com/7560/15601959100_17aa39a1cc_t.jpg
+thumbnail: https://farm8.staticflickr.com/7560/15601959100_17aa39a1cc_q.jpg
 ---
 
 I love a good deal, and when I saw a used copy of [Bouchon

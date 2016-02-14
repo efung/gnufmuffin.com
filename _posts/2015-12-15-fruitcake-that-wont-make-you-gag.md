@@ -5,7 +5,7 @@ date: 2015-12-15 10:31:06 -0500
 comments: true
 permalink: /2015/12/fruitcake-that-wont-make-you-gag.html
 tags: [fruitcake]
-thumbnail: https://c1.staticflickr.com/1/591/23625494696_1dfa00b15b_t.jpg
+thumbnail: https://c1.staticflickr.com/1/591/23625494696_1dfa00b15b_q.jpg
 ---
 
 As someone who's enjoyably eaten [fruitcake](/tag/fruitcake/) for many

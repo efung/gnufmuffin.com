@@ -5,7 +5,7 @@ date: 2015-04-03 21:49:29 -0400
 comments: true
 permalink: /2015/04/chocolate-pecan-cake.html
 tags: [Passover, chocolate, cake, pecan]
-thumbnail: https://farm8.staticflickr.com/7603/16838627359_2c7eeff679_t.jpg
+thumbnail: https://farm8.staticflickr.com/7603/16838627359_2c7eeff679_q.jpg
 ---
  
 The New York Times cooking sections are full of useful information, and

@@ -5,7 +5,7 @@ date: 2015-02-08 09:55:22 -0500
 comments: true
 permalink: /2015/02/bran-muffins-bouchon.html
 tags: [Bouchon Bakery, muffins]
-thumbnail: https://farm8.staticflickr.com/7310/15851941304_39c8611ac8_t.jpg
+thumbnail: https://farm8.staticflickr.com/7310/15851941304_39c8611ac8_q.jpg
 ---
 
 Muffins are often criticized as being little cakes, rather than a

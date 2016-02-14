@@ -5,7 +5,7 @@ date: 2015-08-06 22:52:19 -0400
 comments: true
 permalink: /2015/08/fresh-apricot-ice-cream.html
 tags: [ice cream, apricot]
-thumbnail: https://farm4.staticflickr.com/3759/20343457936_458686797b_t.jpg
+thumbnail: https://farm4.staticflickr.com/3759/20343457936_458686797b_q.jpg
 ---
 
 Ever since reading that [article about

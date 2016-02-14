@@ -5,7 +5,7 @@ date: 2015-06-07 16:45:16 -0400
 comments: true
 permalink: /2015/06/rhubarb-brulee-tartlettes-with-ginger.html
 tags: [In The Sweet Kitchen, tart, rhubarb]
-thumbnail: https://farm1.staticflickr.com/266/18548468205_5150ef1435_t.jpg
+thumbnail: https://farm1.staticflickr.com/266/18548468205_5150ef1435_q.jpg
 ---
 
 Before rhubarb fatigue sets in, I found a recipe I'd never

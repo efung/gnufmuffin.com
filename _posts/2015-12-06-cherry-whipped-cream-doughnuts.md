@@ -5,7 +5,7 @@ date: 2015-12-06 13:34:33 -0500
 comments: true
 permalink: /2015/12/cherry-whipped-cream-doughnuts.html
 tags: [doughnut, cherry, Hanukkah]
-thumbnail: https://c1.staticflickr.com/1/625/22938528444_ba477f583e_t.jpg
+thumbnail: https://c1.staticflickr.com/1/625/22938528444_ba477f583e_q.jpg
 ---
 
 I've really embraced the custom of eating fried foods to celebrate

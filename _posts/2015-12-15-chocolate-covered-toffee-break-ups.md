@@ -5,7 +5,7 @@ date: 2015-12-15 10:35:57 -0500
 comments: true
 permalink: /2015/12/chocolate-covered-toffee-break-ups.html
 tags: ["Baking: From My Home To Yours", chocolate, toffee]
-thumbnail: https://c2.staticflickr.com/6/5750/23767850785_bbea12c3e7_t.jpg
+thumbnail: https://c2.staticflickr.com/6/5750/23767850785_bbea12c3e7_q.jpg
 ---
 
 At the end of the year, Dr. S brings a holiday treat for her staff. In the

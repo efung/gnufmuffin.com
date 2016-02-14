@@ -5,7 +5,7 @@ date: 2015-01-30 20:37:41 -0500
 comments: true
 permalink: /2015/02/white-house-honey-oat-muffins.html
 tags: [muffins, oatmeal, honey]
-thumbnail: https://farm8.staticflickr.com/7285/16401424882_b47780142e_t.jpg
+thumbnail: https://farm8.staticflickr.com/7285/16401424882_b47780142e_q.jpg
 ---
 
 We baked a few times during our month in Florida: brownies, muffins,

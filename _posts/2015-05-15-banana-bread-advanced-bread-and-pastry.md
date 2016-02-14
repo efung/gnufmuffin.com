@@ -5,7 +5,7 @@ date: 2015-05-15 09:34:52 -0400
 comments: true
 permalink: /2015/05/banana-bread-advanced-bread-and-pastry.html
 tags: [banana, quick bread, Advanced Bread and Pastry]
-thumbnail: https://farm6.staticflickr.com/5446/17679420451_442e559b68_t.jpg
+thumbnail: https://farm6.staticflickr.com/5446/17679420451_442e559b68_q.jpg
 ---
 
 Yet another banana bread… This time the recipe comes from Michael Suas'

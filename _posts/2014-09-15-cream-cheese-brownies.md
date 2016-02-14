@@ -5,7 +5,7 @@ date: 2014-09-15 07:30:37 -0400
 comments: true
 permalink: /2014/09/cream-cheese-brownies.html
 tags: [Cook's Illustrated, chocolate, brownies]
-thumbnail: https://farm4.staticflickr.com/3889/15070416218_8588675b26_t.jpg
+thumbnail: https://farm4.staticflickr.com/3889/15070416218_8588675b26_q.jpg
 ---
 
 I'm not a huge brownie fan, as evidenced by the lack of [brownie

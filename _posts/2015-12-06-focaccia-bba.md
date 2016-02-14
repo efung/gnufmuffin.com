@@ -5,7 +5,7 @@ date: 2015-12-06 13:35:34 -0500
 comments: true
 permalink: /2015/12/focaccia-bba.html
 tags: [bread, focaccia, Hanukkah, The Bread Baker's Apprentice]
-thumbnail: https://c2.staticflickr.com/6/5780/23268494190_7a4e06fcbc_t.jpg
+thumbnail: https://c2.staticflickr.com/6/5780/23268494190_7a4e06fcbc_q.jpg
 ---
 
 While it might not be a traditional [Hanukkah](/tag/hanukkah/) food

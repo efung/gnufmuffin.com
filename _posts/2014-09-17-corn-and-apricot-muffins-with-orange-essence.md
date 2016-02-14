@@ -5,7 +5,7 @@ date: 2014-09-17 09:25:25 -0400
 comments: true
 permalink: /2014/09/corn-and-apricot-muffins-with-orange-essence.html
 tags: [muffins, cornmeal, dried apricot, Cook's Illustrated]
-thumbnail: https://farm6.staticflickr.com/5551/15253923426_b0943cc403_t.jpg
+thumbnail: https://farm6.staticflickr.com/5551/15253923426_b0943cc403_q.jpg
 ---
 
 A search of “sour cream” and ”muffins” in Eat Your Books brought up a

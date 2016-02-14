@@ -5,7 +5,7 @@ date: 2014-10-17 09:34:44 -0400
 comments: true
 permalink: /2014/10/pear-and-almond-tart.html
 tags: [tart, pear, frangipane, Cook's Illustrated]
-thumbnail: https://farm6.staticflickr.com/5605/15542218016_8d99ac9f27_t.jpg
+thumbnail: https://farm6.staticflickr.com/5605/15542218016_8d99ac9f27_q.jpg
 ---
 
 As a dessert fruit, I like pears even better than apples. And so when my

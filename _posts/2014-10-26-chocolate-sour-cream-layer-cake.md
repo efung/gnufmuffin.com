@@ -5,7 +5,7 @@ date: 2014-10-26 19:50:30 -0400
 comments: true
 permalink: /2014/10/chocolate-sour-cream-layer-cake.html
 tags: [cake, chocolate]
-thumbnail: https://farm8.staticflickr.com/7526/15623045136_026be56b19_t.jpg
+thumbnail: https://farm8.staticflickr.com/7526/15623045136_026be56b19_q.jpg
 ---
 
 For a friend celebrating her birthday this past week, we offered

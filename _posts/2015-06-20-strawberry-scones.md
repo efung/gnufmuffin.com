@@ -5,7 +5,7 @@ date: 2015-06-20 09:18:24 -0400
 comments: true
 permalink: /2015/06/strawberry-scones.html
 tags: [scones, strawberry]
-thumbnail: https://farm1.staticflickr.com/513/18367705073_5d8a8eba7b_t.jpg
+thumbnail: https://farm1.staticflickr.com/513/18367705073_5d8a8eba7b_q.jpg
 ---
 
 As a thank you to friends who were doing us a favour on Saturday

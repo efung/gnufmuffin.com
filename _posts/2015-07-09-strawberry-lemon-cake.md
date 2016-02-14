@@ -5,7 +5,7 @@ date: 2015-07-09 14:58:48 -0400
 comments: true
 permalink: /2015/07/strawberry-lemon-cake.html
 tags: [Momofuku, Milk Bar, cake, lemon, strawberry]
-thumbnail: https://farm1.staticflickr.com/491/19542759052_fa32065815_t.jpg
+thumbnail: https://farm1.staticflickr.com/491/19542759052_fa32065815_q.jpg
 ---
 
 Five separate components make up this this strawberry lemon layer

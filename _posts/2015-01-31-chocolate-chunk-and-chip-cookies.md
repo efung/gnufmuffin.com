@@ -5,7 +5,7 @@ date: 2015-01-31 20:54:21 -0500
 comments: true
 permalink: /2015/02/chocolate-chunk-and-chip-cookies.html
 tags: [Bouchon Bakery, cookies, chocolate]
-thumbnail: https://farm8.staticflickr.com/7411/16420378531_d5110002cb_t.jpg
+thumbnail: https://farm8.staticflickr.com/7411/16420378531_d5110002cb_q.jpg
 ---
 
 I went back to the Bouchon cookbook in search of an easy dessert I could

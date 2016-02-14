@@ -5,7 +5,7 @@ date: 2015-11-07 21:32:12 -0500
 comments: true
 permalink: /2015/11/winter-squash-pancakes-with-squash-syrup.html
 tags: [pancakes, pumpkin]
-thumbnail: https://c1.staticflickr.com/1/578/22859704471_b880a3ccb6_t.jpg
+thumbnail: https://c1.staticflickr.com/1/578/22859704471_b880a3ccb6_q.jpg
 ---
 
 April Bloomfield's <i>A Girl and Her Greens</i> is a vegetable-focused

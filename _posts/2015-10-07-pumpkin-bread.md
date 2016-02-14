@@ -5,7 +5,7 @@ date: 2015-10-07 20:15:55 -0400
 comments: true
 permalink: /2015/10/pumpkin-bread.html
 tags: [quick bread, pumpkin]
-thumbnail: https://c2.staticflickr.com/6/5758/21992296736_9e6b8022a9_t.jpg
+thumbnail: https://c2.staticflickr.com/6/5758/21992296736_9e6b8022a9_q.jpg
 ---
 
 Fall is here, and that means pumpkins are also. A neighbour gave us a

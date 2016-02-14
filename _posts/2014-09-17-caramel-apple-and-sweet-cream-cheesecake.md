@@ -5,7 +5,7 @@ date: 2014-09-17 22:36:00 -0400
 comments: true
 permalink: /2014/09/caramel-apple-and-sweet-cream-cheesecake.html
 tags: [cheesecake, In The Sweet Kitchen, apple]
-thumbnail: https://farm4.staticflickr.com/3856/15167257797_4018152fe9_t.jpg
+thumbnail: https://farm4.staticflickr.com/3856/15167257797_4018152fe9_q.jpg
 ---
 
 Despite not making a lot of [cheesecakes](/tag/cheesecake), I really

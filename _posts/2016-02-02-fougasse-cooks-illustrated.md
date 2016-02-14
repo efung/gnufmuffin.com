@@ -5,7 +5,7 @@ date: 2016-02-02 07:34:30 -0500
 comments: true
 permalink: /2016/02/fougasse-cooks-illustrated.html
 tags: [bread, Cook's Illustrated]
-thumbnail: https://c2.staticflickr.com/2/1458/24477506220_8362032886_t.jpg
+thumbnail: https://c2.staticflickr.com/2/1458/24477506220_8362032886_q.jpg
 ---
 
 I learned a lot about baking bread from Peter Reinhart's [The Bread

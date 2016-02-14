@@ -5,7 +5,7 @@ date: 2015-08-02 15:17:11 -0400
 comments: true
 permalink: /2015/08/mexican-street-corn-paleta.html
 tags: [ice pops, corn]
-thumbnail: https://farm1.staticflickr.com/553/20076458129_8d77a35333_t.jpg
+thumbnail: https://farm1.staticflickr.com/553/20076458129_8d77a35333_q.jpg
 ---
 
 I remember the success of last year's [corn ice

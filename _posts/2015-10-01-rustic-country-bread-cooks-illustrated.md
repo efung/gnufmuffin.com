@@ -5,7 +5,7 @@ date: 2015-10-01 19:58:18 -0400
 comments: true
 permalink: /2015/10/rustic-country-bread-cooks-illustrated.html
 tags: [bread, Cook's Illustrated]
-thumbnail: https://c1.staticflickr.com/1/690/21697681538_0695f97308_t.jpg
+thumbnail: https://c1.staticflickr.com/1/690/21697681538_0695f97308_q.jpg
 ---
 
 My experiments with high hydration breads at home have been few and far

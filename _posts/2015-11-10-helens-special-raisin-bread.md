@@ -5,7 +5,7 @@ date: 2015-11-10 21:49:14 -0500
 comments: true
 permalink: /2015/11/helens-special-raisin-bread.html
 tags: [bread, raisin, Homebaking]
-thumbnail: https://c1.staticflickr.com/1/778/22731908870_9fd007319b_t.jpg
+thumbnail: https://c1.staticflickr.com/1/778/22731908870_9fd007319b_q.jpg
 ---
 
 I've started to go through [Homebaking](/tag/homebaking/) again, and

@@ -5,7 +5,7 @@ date: 2015-07-01 18:51:32 -0400
 comments: true
 permalink: /2015/07/maple-walnut-ice-cream.html
 tags: [ice cream, maple, walnut]
-thumbnail: https://farm4.staticflickr.com/3744/19177319270_c398818d22_t.jpg
+thumbnail: https://farm4.staticflickr.com/3744/19177319270_c398818d22_q.jpg
 ---
 
 In honour of Canada Day, I made a batch of maple walnut ice cream, a

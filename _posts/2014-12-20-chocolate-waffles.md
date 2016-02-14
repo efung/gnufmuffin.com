@@ -5,7 +5,7 @@ date: 2014-12-20 10:51:14 -0500
 comments: true
 permalink: /2014/12/chocolate-waffles.html
 tags: [waffles, chocolate]
-thumbnail: https://farm8.staticflickr.com/7570/15897087330_b730629578_t.jpg
+thumbnail: https://farm8.staticflickr.com/7570/15897087330_b730629578_q.jpg
 ---
 
 If there's one thing my son will always eat, it's anything made with

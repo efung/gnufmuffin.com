@@ -5,7 +5,7 @@ date: 2015-04-18 21:19:46 -0400
 comments: true
 permalink: /2015/04/passion-fruit-chocolate-chip-layer-cake.html
 tags: [passion fruit, Momofuku, Milk Bar, cake, chocolate]
-thumbnail: https://farm6.staticflickr.com/5446/17003926559_57ac21d743_t.jpg
+thumbnail: https://farm6.staticflickr.com/5446/17003926559_57ac21d743_q.jpg
 ---
 
 [Milk Bar](/tag/milk-bar/) cakes are complicated, multi-step affairs,

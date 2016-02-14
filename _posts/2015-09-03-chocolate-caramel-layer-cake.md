@@ -5,7 +5,7 @@ date: 2015-09-03 20:50:20 -0400
 comments: true
 permalink: /2015/09/chocolate-caramel-layer-cake.html
 tags: [Cook's Illustrated, cake, chocolate, caramel]
-thumbnail: https://farm6.staticflickr.com/5673/21085554426_63e27de692_t.jpg
+thumbnail: https://farm6.staticflickr.com/5673/21085554426_63e27de692_q.jpg
 ---
 
 As a token of appreciation for the nanny who took care of our children

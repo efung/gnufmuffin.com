@@ -5,7 +5,7 @@ date: 2015-03-24 22:48:19 -0400
 comments: true
 permalink: /2015/03/better-nutters.html
 tags: [cookies, Bouchon Bakery, peanut butter]
-thumbnail: https://farm8.staticflickr.com/7613/16728127618_f5311fe509_t.jpg
+thumbnail: https://farm8.staticflickr.com/7613/16728127618_f5311fe509_q.jpg
 ---
 
 These peanut-butter filled oatmeal sandwich cookies looked simple,

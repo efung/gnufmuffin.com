@@ -4,7 +4,7 @@ title: "Croissants (Cook's Illustrated)"
 date: 2014-09-02 09:20:43 -0400
 comments: true
 permalink: /2014/09/croissants-cooks-illustrated.html
-thumbnail: https://farm4.staticflickr.com/3898/14940858268_13a9fe68a7_t.jpg
+thumbnail: https://farm4.staticflickr.com/3898/14940858268_13a9fe68a7_q.jpg
 tags: [croissants, Cook's Illustrated]
 ---
 

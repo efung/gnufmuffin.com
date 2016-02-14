@@ -5,7 +5,7 @@ date: 2015-03-15 07:57:33 -0400
 comments: true
 permalink: /2015/03/candied-orange-oat-scones.html
 tags: [scones, oatmeal, orange peel]
-thumbnail: https://farm8.staticflickr.com/7602/16634781720_2bafd41ccf_t.jpg
+thumbnail: https://farm8.staticflickr.com/7602/16634781720_2bafd41ccf_q.jpg
 ---
 
 Looking for an oatmeal porridge recipe, a search for <code>oatmeal

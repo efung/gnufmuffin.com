@@ -5,7 +5,7 @@ date: 2015-03-01 10:56:06 -0500
 comments: true
 permalink: /2015/03/buttermilk-waffles.html
 tags: [waffles, buttermilk]
-thumbnail: https://farm9.staticflickr.com/8569/16060341194_d6b01befa7_t.jpg
+thumbnail: https://farm9.staticflickr.com/8569/16060341194_d6b01befa7_q.jpg
 ---
 
 If you're looking for a recipe that makes Belgian waffles (the kind

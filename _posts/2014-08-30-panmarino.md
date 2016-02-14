@@ -4,7 +4,7 @@ title: "Panmarino"
 date: 2014-08-30 18:24:56 -0400
 comments: true
 permalink: /2014/08/panmarino.html
-thumbnail: https://farm6.staticflickr.com/5584/14926051187_a542b469df_t.jpg
+thumbnail: https://farm6.staticflickr.com/5584/14926051187_a542b469df_q.jpg
 tags: [bread, The Italian Baker]
 ---
 

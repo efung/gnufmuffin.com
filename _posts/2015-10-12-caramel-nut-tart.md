@@ -5,7 +5,7 @@ date: 2015-10-12 20:30:32 -0400
 comments: true
 permalink: /2015/10/caramel-nut-tart.html
 tags: [Bouchon Bakery, tart, walnut, cashew, hazelnut, caramel]
-thumbnail: https://c1.staticflickr.com/1/677/22131660291_1c0b44a41e_t.jpg
+thumbnail: https://c1.staticflickr.com/1/677/22131660291_1c0b44a41e_q.jpg
 ---
 
 My father's birthday falls around Thanksgiving, so as part of our

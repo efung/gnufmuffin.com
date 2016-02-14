@@ -5,7 +5,7 @@ date: 2015-08-16 07:54:06 -0400
 comments: true
 permalink: /2015/08/honey-poached-apricot-cornmeal-crunch-cake.html
 tags: [cake, cornmeal, apricot, In The Sweet Kitchen]
-thumbnail: https://farm6.staticflickr.com/5751/20638557485_c4a51957ab_t.jpg
+thumbnail: https://farm6.staticflickr.com/5751/20638557485_c4a51957ab_q.jpg
 ---
 
 With a whole lot of apricots, peaches and nectarines all ripening at the

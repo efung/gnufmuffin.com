@@ -5,7 +5,7 @@ date: 2015-02-15 19:53:35 -0500
 comments: true
 permalink: /2015/02/chocolate-raspberry-torte.html
 tags: [Cook's Illustrated, chocolate, raspberry, cake]
-thumbnail: https://farm9.staticflickr.com/8565/16530549701_e0f4cd1820_t.jpg
+thumbnail: https://farm9.staticflickr.com/8565/16530549701_e0f4cd1820_q.jpg
 ---
 
 Chocolate and raspberry is perhaps my favourite dessert combination. I

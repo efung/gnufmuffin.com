@@ -5,7 +5,7 @@ date: 2014-11-14 20:00:23 -0500
 comments: true
 permalink: /2014/11/chocolate-and-lemon-madeleines.html
 tags: [chocolate, Chocolate Desserts, madeleines]
-thumbnail: https://farm6.staticflickr.com/5606/15638775467_483f2e0697_t.jpg
+thumbnail: https://farm6.staticflickr.com/5606/15638775467_483f2e0697_q.jpg
 ---
 
 For an easy quick dessert for a Friday night dinner, I made a batch of

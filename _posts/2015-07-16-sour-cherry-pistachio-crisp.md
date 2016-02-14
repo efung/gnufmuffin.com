@@ -5,7 +5,7 @@ date: 2015-07-16 22:31:57 -0400
 comments: true
 permalink: /2015/07/sour-cherry-pistachio-crisp.html
 tags: [crisp, sour cherry, pistachio]
-thumbnail: https://farm1.staticflickr.com/312/19616562429_3182c9a4bf_t.jpg
+thumbnail: https://farm1.staticflickr.com/312/19616562429_3182c9a4bf_q.jpg
 ---
 
 The farmer's markets now have heaps of cherries, both sweet and sour

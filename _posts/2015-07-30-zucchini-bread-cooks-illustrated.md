@@ -5,7 +5,7 @@ date: 2015-07-30 14:40:55 -0400
 comments: true
 permalink: /2015/07/zucchini-bread-cooks-illustrated.html
 tags: [Cook's Illustrated, zucchini, quick bread]
-thumbnail: https://farm1.staticflickr.com/477/19960979700_80bb6746ee_t.jpg
+thumbnail: https://farm1.staticflickr.com/477/19960979700_80bb6746ee_q.jpg
 ---
 
 While vacationing at a cottage this past week, I had time to do some

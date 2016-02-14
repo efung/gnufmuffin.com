@@ -5,7 +5,7 @@ date: 2014-12-25 12:02:02 -0500
 comments: true
 permalink: /2014/12/lemon-cheesecake.html
 tags: [cheesecake, lemon, Cook's Illustrated]
-thumbnail: https://farm8.staticflickr.com/7469/16104635751_cf7c5fc283_t.jpg
+thumbnail: https://farm8.staticflickr.com/7469/16104635751_cf7c5fc283_q.jpg
 ---
 
 We're in Montreal for a few days to see my new niece. We've been invited 

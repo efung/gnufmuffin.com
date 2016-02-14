@@ -5,7 +5,7 @@ date: 2015-07-17 19:29:13 -0400
 comments: true
 permalink: /2015/07/beet-goat-cheese-honey-pistachio-ice-cream.html
 tags: [ice cream, beet, pistachio]
-thumbnail: https://farm1.staticflickr.com/445/19615168368_8929e98033_t.jpg
+thumbnail: https://farm1.staticflickr.com/445/19615168368_8929e98033_q.jpg
 ---
 
 Yes, this ice cream really does turn a beet salad into an ice cream.

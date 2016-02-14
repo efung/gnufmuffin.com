@@ -5,7 +5,7 @@ date: 2015-12-06 16:30:37 -0500
 comments: true
 permalink: /2015/12/churros-with-chocolate-dulce-de-leche-dip.html
 tags: [churros, chocolate, dulce de leche, Hanukkah]
-thumbnail: https://c2.staticflickr.com/6/5721/23199926979_0c12f8c25a_t.jpg
+thumbnail: https://c2.staticflickr.com/6/5721/23199926979_0c12f8c25a_q.jpg
 ---
 
 When I was younger, our family would occasionally order congee

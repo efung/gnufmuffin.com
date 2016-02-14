@@ -4,7 +4,7 @@ title: "Burned Peach Ice Cream"
 date: 2014-08-28 09:51:50 -0400
 comments: true
 permalink: /2014/08/burned-peach-ice-cream.html
-thumbnail: https://farm6.staticflickr.com/5560/14885646628_1bf0761a9f_t.jpg
+thumbnail: https://farm6.staticflickr.com/5560/14885646628_1bf0761a9f_q.jpg
 tags: [peach, ice cream]
 ---
 

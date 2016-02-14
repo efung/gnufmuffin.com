@@ -5,7 +5,7 @@ date: 2014-10-24 09:15:29 -0400
 comments: true
 permalink: /2014/10/pear-mousse-cake.html
 tags: [cake, mousse, pear, joconde, Advanced Bread and Pastry]
-thumbnail: https://farm6.staticflickr.com/5601/15450187790_169e479c22_t.jpg
+thumbnail: https://farm6.staticflickr.com/5601/15450187790_169e479c22_q.jpg
 ---
 
 I've always wanted to make a dessert using a technique that 

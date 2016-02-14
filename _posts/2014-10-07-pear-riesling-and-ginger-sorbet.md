@@ -5,7 +5,7 @@ date: 2014-10-07 22:14:11 -0400
 comments: true
 permalink: /2014/10/pear-riesling-and-ginger-sorbet.html
 tags: [pear, sorbet]
-thumbnail: https://farm4.staticflickr.com/3934/15353459110_762e0cd9a8_t.jpg
+thumbnail: https://farm4.staticflickr.com/3934/15353459110_762e0cd9a8_q.jpg
 ---
 
 Making a dairy- and wheat-free dessert is a bit of a challenge, and I
