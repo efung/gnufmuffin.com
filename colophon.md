@@ -13,11 +13,13 @@ video content on [YouTube][].
 
 # Photography
 
-I typically take photos with my Canon PowerShot S110. If I have time,
-or if the composition demands it, I put my camera on a [GorillaPod][].
-Most of the time, I take photos of food near a window or outside,
-because I don't have a lightbox or bother with any sort of controlled
-lighting.
+Since January 2015, all photos have been taken on my Sony Xperia
+Z3 smartphone. If I have time and care enough, I mount it on a
+[GorillaPod][]. Prior to that, I used various Canon point and
+shoots, e.g. PowerShot S110, PowerShot S90, PowerShot A520.  Most
+of the time, I take photos of food near a window or outside, because
+I don't have a lightbox or bother with any sort of controlled
+lighting. One of these days, I'll build a lightbox.
 
 If the photos need post-processing, I fix simple stuff like white balance
 or exposure using Mac OS X's Preview. [ImageMagick][] is what I use for 
@@ -108,6 +110,6 @@ Blogger template which should speed load times.
 [Hover]: http://www.hover.com/ "Hover"
 [Feedburner]: http://www.feedburner.com/ "Feedburner"
 [Disqus]: http://www.disqus.com/ "Disqus"
-[GorillaPod]: http://joby.com/gorillapod "GorillaPod"
+[GorillaPod]: http://joby.com/griptight-gorillapod-stand "GorillaPod"
 [Google Custom Search Engine]: https://www.google.com/cse/ "Google CSE"
 [ImageMagick]: http://www.imagemagick.org/ "ImageMagick"
