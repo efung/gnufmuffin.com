@@ -4,7 +4,7 @@ title: "Ciabatta (BBA)"
 date: 2015-08-03 22:24:17 -0400
 comments: true
 permalink: /2015/08/ciabatta-bba.html
-tags: [The Bread Bakers Apprentice, bread]
+tags: [The Bread Baker's Apprentice, bread]
 thumbnail: https://farm1.staticflickr.com/488/20257412892_7c9526ed38_q.jpg
 ---
 
@@ -14,7 +14,7 @@ farmer's market. I took the opportunity to make the ciabatta from
 the book I learned to bake bread from.
 
 Peter Reinhart's [The Bread Bakers
-Apprentice](/tag/the-bread-bakers-apprentice/) is full of
+Apprentice](/tag/the-bread-baker%27s-apprentice/) is full of
 information, photos and recipes and I consider it an essential reference
 for bread. The ciabatta
 [recipe](https://www.reddit.com/r/Breadit/comments/1x4uh0/ciabatta_from_peter_reinharts_bread_bakers/)

@@ -9,7 +9,7 @@ thumbnail: https://c2.staticflickr.com/2/1458/24477506220_8362032886_q.jpg
 ---
 
 I learned a lot about baking bread from Peter Reinhart's [The Bread
-Baker's Apprentice](/tag/the-bread-bakers-apprentice/), and that
+Baker's Apprentice](/tag/the-bread-baker%27s-apprentice/), and that
 book is where I first encountered _fougasse_. I don't think I've
 made it since a
 [class](http://www.gnufmuffin.com/2007/12/intl-breads-6-fougasse-and-herb-bread.html)

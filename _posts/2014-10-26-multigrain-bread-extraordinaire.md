@@ -4,7 +4,7 @@ title: "Multigrain Bread Extraordinaire"
 date: 2014-10-26 22:50:42 -0400
 comments: true
 permalink: /2014/10/multigrain-bread-extraordinaire.html
-tags: [bread, multigrain, The Bread Bakers Apprentice]
+tags: [bread, multigrain, The Bread Baker's Apprentice]
 thumbnail: https://farm4.staticflickr.com/3940/15644065011_6fef76c66b_q.jpg
 ---
 

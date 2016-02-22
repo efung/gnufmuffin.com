@@ -4,13 +4,13 @@ title: "Challah (BBA)"
 date: 2015-05-22 14:35:49 -0400
 comments: true
 permalink: /2015/05/challah-bba.html
-tags: [bread, challah, The Bread Bakers Apprentice]
+tags: [bread, challah, The Bread Baker's Apprentice]
 thumbnail: https://farm9.staticflickr.com/8893/17354445514_71eed34b1c_q.jpg
 ---
 
 As I [mentioned last year](/2014/04/peter-reinharts-challah.html), I've
 made the challah from [The Bread Baker's
-Apprentice](/tag/the-bread-bakers-apprentice/) many times without
+Apprentice](/tag/the-bread-baker%27s-apprentice/) many times without
 documenting it, so here's a post to rectify that.
 
 <a href="https://www.flickr.com/photos/gnuf/17789155748" title="Challah
