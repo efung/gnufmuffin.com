@@ -3,7 +3,7 @@ layout: post
 title: "Old-Fashioned Lemon Bundt Cake"
 date: 2016-03-17 14:08:23 -0400
 comments: true
-permalink: /2016/04/old-fashioned-lemon-bundt-cake.html
+permalink: /2016/03/old-fashioned-lemon-bundt-cake.html
 tags: [cake, lemon, In The Sweet Kitchen]
 thumbnail: https://farm2.staticflickr.com/1684/26326319986_2bc3b3f4e7_q.jpg
 ---

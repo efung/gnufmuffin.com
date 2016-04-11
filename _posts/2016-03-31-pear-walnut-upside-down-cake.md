@@ -3,7 +3,7 @@ layout: post
 title: "Pear-Walnut Upside-Down Cake"
 date: 2016-03-31 14:13:03 -0400
 comments: true
-permalink: /2016/04/pear-walnut-upside-down-cake.html
+permalink: /2016/03/pear-walnut-upside-down-cake.html
 tags: [pear, walnut, Cook's Illustrated]
 thumbnail: https://farm2.staticflickr.com/1581/26286050591_11d1ab4a2a_q.jpg
 ---
