@@ -57,9 +57,10 @@ namespace :site do
     title = ENV["title"] || get_stdin("Enter a title for your post: ")
     mkdir_p "#{source_dir}/#{posts_dir}"
 
-    date = (ENV["date"] ? Time.parse(ENV["date"]) : Time.now).strftime('%Y-%m-%d')
+    date = (ENV["date"] ? Time.parse(ENV["date"]) : Time.now)
+    dateYmd = date.strftime('%Y-%m-%d')
 
-    filename = "#{date}-#{title.to_url}.#{new_post_ext}"
+    filename = "#{dateYmd}-#{title.to_url}.#{new_post_ext}"
     pathname = "#{source_dir}/#{posts_dir}/#{filename}"
     if File.exist?(pathname)
       abort("rake aborted!") if ask("#{pathname} already exists. Do you want to overwrite?", ['y', 'n']) == 'n'
@@ -69,9 +70,9 @@ namespace :site do
       post.puts "---"
       post.puts "layout: post"
       post.puts "title: \"#{title.gsub(/&/,'&amp;')}\""
-      post.puts "date: #{date} #{Time.now.strftime('%H:%M:%S %z')}"
+      post.puts "date: #{dateYmd} #{Time.now.strftime('%H:%M:%S %z')}"
       post.puts "comments: true"
-      post.puts "permalink: /#{Time.now.strftime('%Y/%m')}/#{title.to_url}.html"
+      post.puts "permalink: /#{date.strftime('%Y/%m')}/#{title.to_url}.html"
       post.puts "tags: []"
       post.puts "thumbnail:"
       post.puts "---"
