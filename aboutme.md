@@ -20,4 +20,4 @@ in Toronto, Canada. I've worked previously at Zynga, Five Mobile, RIM and Certic
 The best way to contact me is 
 [efung@acm.org](mailto:efung@acm.org)
 
-<img class="avatar" src="http://www.gravatar.com/avatar/877215a85ea128b67b4334142a6df260.png"></img>
+<img class="avatar" src="http://www.gravatar.com/avatar/877215a85ea128b67b4334142a6df260.png">
