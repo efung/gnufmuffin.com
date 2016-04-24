@@ -20,7 +20,6 @@ gems:
     - jekyll-paginate
     - jekyll-redirect-from
     - jekyll-sitemap
-    - jekyll-last-modified-at
 
 collections:
   recipes:

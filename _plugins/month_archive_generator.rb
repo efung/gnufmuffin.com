@@ -4,9 +4,9 @@ module Jekyll
     safe true
     def generate(site)
       if site.layouts.key? 'month_archive_index'
-        @months_with_posts = site.posts.group_by{ |c| "#{c.date.year}/#{"%02d" % c.date.month}" }.keys.sort
+        @months_with_posts = site.posts.docs.group_by{ |c| "#{c.date.year}/#{"%02d" % c.date.month}" }.keys.sort
 
-        site.posts.group_by{ |c| {"month" => c.date.month, "year" => c.date.year} }.each do |period, posts|
+        site.posts.docs.group_by{ |c| {"month" => c.date.month, "year" => c.date.year} }.each do |period, posts|
           posts = posts.sort_by { |p| -p.date.to_f }
           archive_dir = File.join(period["year"].to_s(), "%02d" % period["month"].to_s())
           paginate(site, archive_dir, posts, period["year"], period["month"])

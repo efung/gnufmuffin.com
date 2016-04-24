@@ -4,7 +4,7 @@ module Jekyll
     safe true
     def generate(site)
       if site.layouts.key? 'year_archive_index'
-        site.posts.group_by{ |c| c.date.year }.each do |year, posts|
+        site.posts.docs.group_by{ |c| c.date.year }.each do |year, posts|
           posts = posts.sort_by { |p| -p.date.to_f }
           archive_dir = year.to_s
           paginate(site, archive_dir, posts, year)
