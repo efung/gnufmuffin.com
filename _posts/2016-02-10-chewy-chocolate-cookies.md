@@ -4,7 +4,7 @@ title: "Chewy Chocolate Cookies"
 date: 2016-02-10 07:35:29 -0500
 comments: true
 permalink: /2016/02/chewy-chocolate-cookies.html
-tags: [Cook's Illustrated, chocolate, cookie]
+tags: [Cook's Illustrated, chocolate, cookies]
 thumbnail: https://farm2.staticflickr.com/1579/24829981802_8de00c4b62_q.jpg
 ---
 
