@@ -4,7 +4,7 @@ title: "Bacon Cheddar Scones"
 date: 2015-11-30 07:32:57 -0500
 comments: true
 permalink: /2015/11/bacon-cheddar-scones.html
-tags: [scones, bacon]
+tags: [scones, bacon, Bouchon Bakery]
 thumbnail: https://c2.staticflickr.com/6/5728/23124914610_394d9e26df_q.jpg
 ---
 
