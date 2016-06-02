@@ -16,7 +16,7 @@
     <div class="content container">
       <h1>{{ page.posts.size }} post{% if page.posts.size > 1 %}s{% endif %} tagged with {{ page.tag }}</h1>
       {% strip %}
-      <ul id="thumbnail-title-list">
+      <ul class="thumbnail-title-list">
       {% for post in page.posts %}
         <li>
           {% if post.thumbnail %}

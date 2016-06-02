@@ -459,29 +459,29 @@ h1.post-title {
 }
 
 /* Archives */
-ul#thumbnail-title-list {
+ul.thumbnail-title-list {
   list-style: none;
 }
 
-ul#thumbnail-title-list li {
+ul.thumbnail-title-list li {
 /*  overflow: hidden;*/
   margin-top: 0.75rem;
   margin-bottom: 0.75rem;
 }
 
-ul#thumbnail-title-list > li > div.post-date {
+ul.thumbnail-title-list > li > div.post-date {
   display: inline-block;
   vertical-align: middle;
   margin-right: 0.5rem;
 }
 
-ul#thumbnail-title-list > li > div.post-title {
+ul.thumbnail-title-list > li > div.post-title {
   display: inline-block;
   vertical-align: middle;
   width: 60%;
 }
 
-ul#thumbnail-title-list > li > img {
+ul.thumbnail-title-list > li > img {
   height: 75px;
   width: 75px;
   display: inline-block;
@@ -489,7 +489,7 @@ ul#thumbnail-title-list > li > img {
   vertical-align: middle;
 }
 
-ul#thumbnail-title-list > li > i {
+ul.thumbnail-title-list > li > i {
   width: 75px;
   height: 75px;
   text-align: center;
