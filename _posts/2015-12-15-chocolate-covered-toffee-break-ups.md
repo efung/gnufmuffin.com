@@ -4,7 +4,7 @@ title: "Chocolate Covered Toffee Break Ups"
 date: 2015-12-15 10:35:57 -0500
 comments: true
 permalink: /2015/12/chocolate-covered-toffee-break-ups.html
-tags: ["Baking: From My Home To Yours", chocolate, toffee]
+tags: [Baking Chez Moi, chocolate, toffee]
 thumbnail: https://c2.staticflickr.com/6/5750/23767850785_bbea12c3e7_q.jpg
 ---
 
@@ -13,7 +13,7 @@ past, we made [caramel corn](/2008/12/caramel-corn.html). This year, we
 decided to try chocolate covered toffee with nuts.
 
 The [recipe](http://www.popsugar.com/food/Easy-Chocolate-Almond-Toffee-Recipe-36291501) comes
-from one of Dorie Greenspan''s cookbooks, [Baking: From My Home To Yours](/tag/baking%3A-from-my-home-to-yours/). I saw it
+from one of Dorie Greenspan''s cookbooks, [Baking Chez Moi](/tag/baking-chez-moi/). I saw it
 in the front window of [Circus](http://www.blogto.com/bookstores/circus), our local used 
 bookstore. I own several cookbooks that she's authored ([Baking With Julia](/tag/baking-with-julia/),
 [Desserts by Pierre Herme](/tag/desserts-by-pierre-herme/)) but this is the first one I've
