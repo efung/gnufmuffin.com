@@ -1,35 +1,45 @@
+GIT
+  remote: git@github.com:pattex/jekyll-tagging.git
+  revision: d58fd53c61b9f5000cd83343e0ef5db2e98d1fc9
+  ref: d58fd53c
+  specs:
+    jekyll-tagging (1.0.1)
+      ruby-nuggets
+
 GEM
   remote: https://rubygems.org/
   specs:
-    colorator (0.1)
-    ffi (1.9.10)
-    jekyll (3.1.6)
-      colorator (~> 0.1)
+    colorator (1.1.0)
+    ffi (1.9.14)
+    forwardable-extended (2.6.0)
+    jekyll (3.2.0)
+      colorator (~> 1.0)
       jekyll-sass-converter (~> 1.0)
       jekyll-watch (~> 1.1)
       kramdown (~> 1.3)
       liquid (~> 3.0)
       mercenary (~> 0.3.3)
+      pathutil (~> 0.9)
       rouge (~> 1.7)
       safe_yaml (~> 1.0)
     jekyll-paginate (1.1.0)
     jekyll-redirect-from (0.10.0)
       jekyll (>= 2.0)
-    jekyll-sass-converter (1.4.0)
+    jekyll-sass-converter (1.5.0)
       sass (~> 3.4)
     jekyll-sitemap (0.10.0)
-    jekyll-tagging (1.0.1)
-      ruby-nuggets
-    jekyll-watch (1.4.0)
+    jekyll-watch (1.5.0)
       listen (~> 3.0, < 3.1)
-    kramdown (1.11.1)
+    kramdown (1.13.1)
     liquid (3.0.6)
     listen (3.0.8)
       rb-fsevent (~> 0.9, >= 0.9.4)
       rb-inotify (~> 0.9, >= 0.9.7)
     mercenary (0.3.6)
     nuggets (1.0.0)
-    rb-fsevent (0.9.7)
+    pathutil (0.14.0)
+      forwardable-extended (~> 2.6)
+    rb-fsevent (0.9.8)
     rb-inotify (0.9.7)
       ffi (>= 0.5.0)
     redcarpet (3.3.4)
@@ -37,20 +47,20 @@ GEM
     ruby-nuggets (1.0.0)
       nuggets (= 1.0.0)
     safe_yaml (1.0.4)
-    sass (3.4.22)
+    sass (3.4.23)
     stringex (1.4.0)
 
 PLATFORMS
   ruby
 
 DEPENDENCIES
-  jekyll
+  jekyll (= 3.2.0)
   jekyll-paginate
   jekyll-redirect-from
   jekyll-sitemap
-  jekyll-tagging
+  jekyll-tagging!
   redcarpet
   stringex (~> 1.4.0)
 
 BUNDLED WITH
-   1.10.6
+   1.13.6
