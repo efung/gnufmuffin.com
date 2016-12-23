@@ -1,4 +1,5 @@
 source 'https://rubygems.org'
+gem 'rake'
 gem 'jekyll', '3.2.0'
 gem 'jekyll-paginate'
 # Install from Git until 1.1.0 is released with compatibility for Jekyll 3.2.0
