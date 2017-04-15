@@ -14,7 +14,7 @@ other dishes. This pudding was easy to make, and the two
 garnishes really elevated the dessert.
 
 The
-[recipe](www.cookstr.com/recipes/spiced-chocolate-pudding-with-caramel-crisped-rice-cereal)
+[recipe](https://www.cookstr.com/recipes/spiced-chocolate-pudding-with-caramel-crisped-rice-cereal)
 is from Pichet Ong's [In The Sweet Kitchen](/tag/in-the-sweet-kitchen/).
 The original calls for cardamom and star anise, but we didn't think
 the under-five crowd would enjoy those flavours, so I omitted them.

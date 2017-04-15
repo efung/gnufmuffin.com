@@ -16,7 +16,7 @@ overloaded with a lot of mix-ins. However, I am a big fan of Yotam
 Ottolenghi, and his eponymous cookbook featured a morning-glory-like
 muffin that sounded good enough to try.
 
-The part of the [recipe](www.mueslilover.com/2013/11/recipe-ottolenghis-carrot-apple-and.html) 
+The part of the [recipe](http://www.thelittleloaf.com/2015/09/09/carrot-apple-pecan-crumble-muffins/)
 that interested me was the topping: it was a crumb topping made
 with seeds, oats and honey. In the first batch I
 made, I didn't have pumpkin seeds, and also subbed sweet potato
