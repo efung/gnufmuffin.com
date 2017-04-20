@@ -16,7 +16,7 @@ rounds, I made a skillet crisp instead.
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/gnuf/30845481571/in/photostream/" title="Skillet Apple Crisp"><img src="https://c4.staticflickr.com/6/5578/30845481571_af0ce7d24c.jpg" width="500" height="375" alt="Skillet Apple Crisp"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 The [recipe](https://firstlookthencook.com/2010/12/29/skillet-apple-crisp/)
-comes from the Sept 2010 issue of [Cook's Illustrated](tag/cook%27s-illustrated/). On paper, it sounds like
+comes from the Sept 2010 issue of [Cook's Illustrated](/tag/cook%27s-illustrated/). On paper, it sounds like
 more work, since you cook it on the stove and finish it in the oven. But, in a traditional
 crisp, you'd have to cook the apples separately somehow, possibly pre-bake the topping, then
 bake the two together.
