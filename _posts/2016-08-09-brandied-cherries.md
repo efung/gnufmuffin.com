@@ -4,7 +4,7 @@ title: "Brandied Cherries"
 date: 2016-08-09 15:00:14 -0400
 comments: true
 permalink: /2016/08/brandied-cherries.html
-tags: [preserving, cherries]
+tags: [preserving, cherry]
 thumbnail: https://farm8.staticflickr.com/7538/28937115531_4573a376b8_q.jpg
 ---
 
