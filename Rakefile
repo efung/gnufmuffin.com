@@ -74,7 +74,7 @@ namespace :site do
       post.puts "comments: true"
       post.puts "permalink: /#{date.strftime('%Y/%m')}/#{title.to_url}.html"
       post.puts "tags: []"
-      post.puts "thumbnail:"
+      post.puts "thumbnail: "
       post.puts "---"
     end
   end
