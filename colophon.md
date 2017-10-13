@@ -13,17 +13,18 @@ video content on [YouTube][].
 
 # Photography
 
-Since January 2015, all photos have been taken on my Sony Xperia
-Z3 smartphone. If I have time and care enough, I mount it on a
+Since January 2015, photos are taken on a smartphone, first a 
+Sony Xperia Z3, then a Google Pixel. If I have time and care enough, 
+I mount the phone on a
 [GorillaPod][]. Prior to that, I used various Canon point and
-shoots, e.g. PowerShot S110, PowerShot S90, PowerShot A520.  Most
-of the time, I take photos of food near a window or outside, because
-I don't have a lightbox or bother with any sort of controlled
-lighting. One of these days, I'll build a lightbox.
+shoots, e.g. PowerShot S110, PowerShot S90, PowerShot A520. Most
+of the time, I take photos of food near a window or outside, but I've
+recently acquired a [Foldio2](http://orangemonkie.com/foldio2/), a portable
+lightbox.
 
 If the photos need post-processing, I fix simple stuff like white balance
-or exposure using Mac OS X's Preview. [ImageMagick][] is what I use for 
-creating montages. 
+or exposure using Mac OS X's Preview or on Google Photos. 
+For montages, I use [ImageMagick][].
 
 # Words
 
