@@ -26,7 +26,7 @@ This banana bread starts off with a simple quick bread, loaded with
 2 cups of toasted pecans. Compared to other banana breads, in my humble
 opinion, it's a little too dense, and a little too mild in flavour.
 However, the recipe doesn't stop there. It continues with the
-instructino to spread thick slices generously with butter.
+instruction to spread thick slices generously with butter.
 
 <a href="https://www.flickr.com/photos/gnuf/16492894337" title="Grilled
 Banana Bread with Tahini and Honeycomb by Eric Fung, on Flickr"><img
