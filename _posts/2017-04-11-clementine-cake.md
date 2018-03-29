@@ -4,7 +4,7 @@ title: "Clementine Cake"
 date: 2017-04-11 18:58:03 -0400
 comments: true
 permalink: /2017/04/clementine-cake.html
-tags: [cake, almond, passover, gluten free, orange]
+tags: [cake, almond, Passover, gluten free, orange]
 thumbnail: https://farm3.staticflickr.com/2880/33952895086_4c07e6b23f_q.jpg
 ---
 

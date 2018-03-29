@@ -4,7 +4,7 @@ title: "Walnut Cake"
 date: 2017-04-10 19:22:16 -0400
 comments: true
 permalink: /2017/04/walnut-cake.html
-tags: [cake, passover, walnut, gluten free]
+tags: [cake, Passover, walnut, gluten free]
 thumbnail: https://c1.staticflickr.com/3/2915/33850447701_e475daf032_q.jpg
 ---
 
