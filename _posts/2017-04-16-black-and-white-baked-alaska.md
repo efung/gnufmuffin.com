@@ -4,7 +4,7 @@ title: "Black and White Baked Alaska"
 date: 2017-04-16 21:20:57 -0400
 comments: true
 permalink: /2017/04/black-and-white-baked-alaska.html
-tags: [passover, gluten free, chocolate, ice cream, cake, Baking Chez Moi]
+tags: [Passover, gluten free, chocolate, ice cream, cake, Baking Chez Moi]
 thumbnail: https://farm3.staticflickr.com/2808/33306608424_2dcfbf9bbf_q.jpg
 ---
 
