@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Red Bean Soup (紅豆粥)"
+title: "Red Bean Porridge (紅豆粥)"
 date: 2018-03-11 18:58:01 -0400
 comments: true
 permalink: /2018/03/red-bean-soup-hong-dou-zhou.html
