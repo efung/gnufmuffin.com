@@ -4,7 +4,7 @@ title: "Almond-Crust Hamantaschen"
 date: 2018-03-02 21:57:25 -0400
 comments: true
 permalink: /2018/03/almond-crust-hamantaschen.html
-tags: [almond, cookie, dried cherry]
+tags: [almond, cookies, dried cherry]
 thumbnail: https://farm1.staticflickr.com/877/40191126845_52b21698ce_q.jpg
 ---
 
