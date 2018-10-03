@@ -13,6 +13,11 @@ new_post_ext    = "md"        # default new page file extension when using the n
 # Usage:
 # bundle exec rake site:<task>
 namespace :site do
+  desc "Preview site"
+  task :serve do
+    system "bundle exec jekyll serve --limit 5 --incremental"
+  end
+
   desc "Generate site"
   task :generate do
     puts "## Generating Site with Jekyll"
