@@ -4,7 +4,7 @@ title: "Easy Apple Strudel"
 date: 2014-10-02 21:15:29 -0400
 comments: true
 permalink: /2014/10/easy-apple-strudel.html
-tags: [apple, Cook's Illustrated, strudel]
+tags: [apple, Cook's Illustrated, strudel, phyllo]
 thumbnail: https://farm3.staticflickr.com/2946/15404660426_7d6663b93e_q.jpg
 ---
 

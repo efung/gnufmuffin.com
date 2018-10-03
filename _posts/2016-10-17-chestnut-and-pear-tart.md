@@ -4,7 +4,7 @@ title: "Chestnut and Pear Tart"
 date: 2016-10-17 09:20:17 -0400
 comments: true
 permalink: /2016/10/chestnut-and-pear-tart.html
-tags: [Desserts by Pierre Herme, chestnut, pear, tart]
+tags: [Desserts by Pierre Herme, chestnut, pear, tart, phyllo]
 thumbnail: https://farm9.staticflickr.com/8416/30121029980_28a942582b_q.jpg
 ---
 

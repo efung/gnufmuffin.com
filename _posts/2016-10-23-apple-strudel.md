@@ -4,7 +4,7 @@ title: "Apple Strudel"
 date: 2016-10-23 19:30:37 -0400
 comments: true
 permalink: /2016/10/apple-strudel.html
-tags: [Cook's Illustrated, apple, strudel]
+tags: [Cook's Illustrated, apple, strudel, phyllo]
 thumbnail: https://farm6.staticflickr.com/5469/30522678866_b13118cba6_q.jpg
 ---
 
