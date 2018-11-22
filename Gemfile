@@ -1,10 +1,11 @@
 source 'https://rubygems.org'
 gem 'rake'
-gem 'jekyll', '3.2.0'
-gem 'jekyll-paginate'
-# Install from Git until 1.1.0 is released with compatibility for Jekyll 3.2.0
-gem 'jekyll-tagging', :git => 'git@github.com:pattex/jekyll-tagging.git', :ref => 'd58fd53c'
-gem 'jekyll-redirect-from'
+gem 'jekyll', '3.5.0'
+group :jekyll_plugins do
+  gem 'jekyll-paginate'
+  gem 'jekyll-redirect-from'
+  gem 'jekyll-sitemap'
+end
+gem 'jekyll-tagging'
 gem 'stringex', '~> 1.4.0'
-gem 'jekyll-sitemap'
 gem 'redcarpet'
