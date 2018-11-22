@@ -14,10 +14,10 @@ There are **{{ site.tags['muffins'].size }} posts** about [muffins](/tag/muffins
 
 I currently live in Toronto, Canada with my wife, son and daughter.
 
-By day, I am a mobile software developer at [Shopify](http://shopify.com/mobile)
+By day, I am a data scientist at [Shopify](https://shopify.com/)
 in Toronto, Canada. I've worked previously at Zynga, Five Mobile, RIM and Certicom.
 
-The best way to contact me is 
+The best way to reach me is via email:  
 [efung@acm.org](mailto:efung@acm.org)
 
 <img class="avatar" src="http://www.gravatar.com/avatar/877215a85ea128b67b4334142a6df260.png" alt="Avatar of Eric">
