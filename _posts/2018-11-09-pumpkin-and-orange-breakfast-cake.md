@@ -4,7 +4,7 @@ title: "Pumpkin and Orange Breakfast Cake"
 date: 2018-11-09 07:26:06 -0500
 comments: true
 permalink: /2018/11/pumpkin-and-orange-breakfast-cake.html
-tags: [In the Sweet Kitchen, pumpkin, orange, cake]
+tags: [In The Sweet Kitchen, pumpkin, orange, cake]
 thumbnail: https://farm5.staticflickr.com/4887/45964596561_ece14795bb_q.jpg
 ---
 
