@@ -4,7 +4,7 @@ title: "Panettone (BBA)"
 date: 2016-12-08 09:59:01 -0500
 comments: true
 permalink: /2016/12/panettone-bba.html
-tags: [Bread Baker's Apprentice, bread]
+tags: [The Bread Baker's Apprentice, bread]
 thumbnail: https://c1.staticflickr.com/1/294/31248477730_03fe0b11a6_q.jpg
 ---
 
