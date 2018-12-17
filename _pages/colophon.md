@@ -1,7 +1,14 @@
 ---
-layout: page
+layout: single
+header:
+  overlay_color: "#ffbe4f"
+permalink: /colophon/
 title: "Colophon"
 ---
+# Theme
+In Dec 2018, I switched from a heavily modified version of the [Hyde](https://github.com/poole/hyde) theme, to 
+the <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow">Minimal Mistakes</a> theme.
+
 # Hosting
 
 This site was originally managed using [Blogger][] and hosted at a
@@ -25,14 +32,6 @@ lightbox.
 If the photos need post-processing, I fix simple stuff like white balance
 or exposure using Mac OS X's Preview or on Google Photos. 
 For montages, I use [ImageMagick][].
-
-# Words
-
-I write posts in [Markdown][], generate the site locally on my MacBook, 
-then push it up to GitHub. Flickr has Twitter integration to send out a 
-tweet, so I include a link back to the blog entry in the photo
-description. I tried using the Socialize feature of [FeedBurner][] but
-it didn't allow customization of the tweet. 
 
 # Migration from Blogger
 

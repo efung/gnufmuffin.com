@@ -1,0 +1,7 @@
+main:
+  - title: "About"
+    url: /aboutme/
+  - title: "Bakery Arts at GBC"
+    url: /gbc/
+  - title: "Archives & Tags"
+    url: /archives/

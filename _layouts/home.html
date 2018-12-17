@@ -1,21 +1,14 @@
-<!DOCTYPE html>
-<html xmlns="http://www.w3.org/1999/xhtml"
-      prefix="og: http://ogp.me/ns#"
-      xml:lang="en" lang="en-us">
+---
+layout: archive
+---
 
-  <head itemscope itemtype="http://schema.org/WebSite">
-  <title itemprop='name'>{{ site.title }}</title>
-  <link rel="canonical" href="http://www.gnufmuffin.com/" itemprop="url">
-  {% include head.html %}
-  </head>
+{{ content }}
 
-  <body>
+{% for i in (0..4) %}
+  {% assign post = site.posts[i] %}
+  {% include archive-single.html %}
+{% endfor %}
 
-    {% include sidebar.html %}
-
-    <div class="content container">
-      {{ content }}
-    </div>
-
-  </body>
-</html>
+<p>
+<hr>
+More in the <a href="/archives">archives</a>…

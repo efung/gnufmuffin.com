@@ -1,0 +1,31 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+
+@charset "utf-8";
+
+$link-color: #F30963;
+
+@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
+@import "minimal-mistakes"; // main partials
+
+ul.date-archive-year {
+  > li {
+    margin-top: 1em;
+	margin-bottom: 0;
+	font-weight: bold;
+  }
+  ul {
+    margin: 0;
+    padding: 0;
+
+    li {
+      list-style-type: none;
+      display: inline;
+    }
+
+    li:not(:first-child):before {
+      content: " • ";
+    }
+  }
+}

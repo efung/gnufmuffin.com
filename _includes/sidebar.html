@@ -1,20 +1,24 @@
-<div class="sidebar-bg">
-<div class="sidebar">
-    <div class="sidebar-about">
-      <h1><a href="/">{{ site.title }}</a></h1>
-      <p class="lead">{{ site.description }}</p>
-    </div>
-
-    <ul class="sidebar-nav">
-      <li class="sidebar-nav-item"><a href="/aboutme/">About</a>
-      <li class="sidebar-nav-item"><a href="/gbc/">Bakery Arts at GBC</a>
-      <li class="sidebar-nav-item"><a href="/archives/">Archives</a>
-      <li class="sidebar-nav-item"><a href="/tags/">Tags</a>
-      <li class="sidebar-nav-item"><a href="/colophon/">Colophon</a>
-      <li class="sidebar-nav-item"><a href="/search/">Search</a>
-      <li class="sidebar-nav-item"><a href="/atom.xml"><i class="fa fa-rss icon-rss"></i></a> • <a href="https://twitter.com/gnufmuffin"><i class="fa fa-twitter icon-twitter"></i></a>
-    </ul>
-
-    <p class="copyright">&copy; 2005 - {{ site.time | date: '%Y' }} by Eric Fung. All rights reserved.</p>
-</div>
-</div>
+{% if page.author_profile or layout.author_profile or page.sidebar or layout.sidebar %}
+  <div class="sidebar sticky">
+  {% if page.author_profile or layout.author_profile %}{% include author-profile.html %}{% endif %}
+  {% if page.sidebar or layout.sidebar %}
+    {% assign thesidebar = page.sidebar | default: layout.sidebar %}
+    {% for s in thesidebar %}
+      {% if s.image %}
+        <img src=
+        {% if s.image contains "://" %}
+          "{{ s.image }}"
+        {% else %}
+          "{{ s.image | relative_url }}"
+        {% endif %}
+        alt="{% if s.image_alt %}{{ s.image_alt }}{% endif %}">
+      {% endif %}
+      {% if s.title %}<h3>{{ s.title }}</h3>{% endif %}
+      {% if s.text %}{{ s.text | markdownify }}{% endif %}
+    {% endfor %}
+    {% if thesidebar.nav %}
+      {% include nav_list nav=thesidebar.nav %}
+    {% endif %}
+  {% endif %}
+  </div>
+{% endif %}

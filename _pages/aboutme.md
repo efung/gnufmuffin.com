@@ -1,6 +1,9 @@
 ---
-layout: page
+layout: single
+permalink: /aboutme/
 title: "About"
+header:
+  overlay_color: "#0c457d"
 ---
 This site began in 2005 when I wrote about [taking baking classes](/gbc) at George Brown College.
 
@@ -17,7 +20,4 @@ I currently live in Toronto, Canada with my wife, son and daughter.
 By day, I am a data scientist at [Shopify](https://shopify.com/)
 in Toronto, Canada. I've worked previously at Zynga, Five Mobile, RIM and Certicom.
 
-The best way to reach me is via email:  
-[efung@acm.org](mailto:efung@acm.org)
-
-<img class="avatar" src="http://www.gravatar.com/avatar/877215a85ea128b67b4334142a6df260.png" alt="Avatar of Eric">
+Read about how this site is built in the [colophon](/colophon/).

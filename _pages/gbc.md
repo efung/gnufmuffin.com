@@ -1,9 +1,12 @@
 ---
-layout: page
+layout: single
+header:
+  overlay_color: "#e8702a"
+permalink: /gbc/
 title: "Bakery Arts at George Brown"
 ---
-I earned a Bakery Arts Diploma after completing ten classes through the Continuing Education program.
-Here are my blog entries for each class:
+Between 2005 and 2007, I earned a Bakery Arts Diploma after completing ten classes through the Continuing 
+Education program.  Here are my blog entries for each class:
 
 - [Baking Basic](/2005/04/baking-basic.html)
 - [Art of Pastry](/2005/06/art-of-pastry.html)

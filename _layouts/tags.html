@@ -1,0 +1,30 @@
+---
+layout: archive
+---
+
+{{ content }}
+
+{% assign tags_sorted = site.tags | sort %}
+{% assign all_book_titles = site.data.books | map: "title_tag" %}
+
+<ul class="taxonomy__index">
+    {% for tag in tags_sorted %}
+	  {% if all_book_titles contains tag[0] %}
+        <li>
+          <a href="/tag/{{ tag[0] | slugify }}">
+			  <strong><i class="fa fa-book" aria-hidden="true"></i>  {{ tag[0] }}</strong> <span class="taxonomy__count">{{ tag[1].size }}</span>
+          </a>
+        </li>
+	  {% endif %}
+    {% endfor %}
+    {% for tag in tags_sorted %}
+	  {% unless all_book_titles contains tag[0] %}
+        <li>
+          <a href="/tag/{{ tag[0] | slugify }}">
+			  <strong>{{ tag[0] }}</strong> <span class="taxonomy__count">{{ tag[1].size }}</span>
+          </a>
+        </li>
+	  {% endunless %}
+    {% endfor %}
+</ul>
+

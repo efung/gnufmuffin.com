@@ -1,28 +1,4 @@
 ---
 layout: home
-title: Home
-description: "Do You Know the Muffin Man? is Eric Fung's blog about baking and desserts. This is a journal of his experiments."
-regenerate: true
+author_profile: true
 ---
-<div class="posts">
-  {% assign front_page_posts = 5 %}
-  {% for post in site.posts limit:front_page_posts %}
-  <div class="post">
-    <h1 class="post-title"><a href="{{ post.url }}">{{ post.title }}</a></h1>
-    <span class="post-date">{{ post.date | date: "%Y %b %d" }}</span>
-
-    <div class="excerpt">
-      {% if post.thumbnail %}
-        <a href="{{ post.url }}"><img class="inlineleft" src="{{ post.thumbnail }}"></a>
-      {% endif %}
-      {{ post.excerpt | markdownify }}…
-      <span class="continue"><a href="{{ post.url }}">Read&nbsp;more&nbsp;»</a></span>
-    </div>
-  </div>
-  {% endfor %}
-
-  <div class="pagination">
-    {% capture url %}{{ site.posts[front_page_posts].date | date: "%Y/%m" }}{% endcapture %}
-    <a class="pagination-item" href="/{{ url }}/">More entries from {{ site.posts[front_page_posts].date | date: '%b %Y' }}…</a>
-  </div>
-</div>
