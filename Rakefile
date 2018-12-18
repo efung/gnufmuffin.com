@@ -21,6 +21,7 @@ namespace :site do
   desc "Generate site"
   task :generate do
     puts "## Generating Site with Jekyll"
+    ENV['JEKYLL_ENV'] = 'production'
     Jekyll::Site.new(Jekyll.configuration({
       "source"      => ".",
       "destination" => "_site",
