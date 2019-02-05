@@ -260,8 +260,6 @@ defaults:
       comments: true
       share: false
       related: false
-      header:
-        og_image: page.thumbnail
   # _pages
   - scope:
       path: ""
