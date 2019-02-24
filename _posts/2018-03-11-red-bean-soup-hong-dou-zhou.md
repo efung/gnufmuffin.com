@@ -4,7 +4,7 @@ title: "Red Bean Porridge (紅豆粥)"
 date: 2018-03-11 18:58:01 -0400
 comments: true
 permalink: /2018/03/red-bean-soup-hong-dou-zhou.html
-tags: [Chinese, adzuki]
+tags: [Chinese, adzuki, tong sui]
 thumbnail: https://farm1.staticflickr.com/805/40191798535_49acd84673_q.jpg
 ---
 
