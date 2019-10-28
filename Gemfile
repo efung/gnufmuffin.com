@@ -1,6 +1,6 @@
 source 'https://rubygems.org'
 gem 'rake'
-gem 'jekyll', '3.7.4'
+gem 'jekyll'
 group :jekyll_plugins do
   gem 'jekyll-redirect-from'
   gem 'jekyll-sitemap'
