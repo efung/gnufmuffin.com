@@ -20,13 +20,14 @@ namespace :site do
 
   desc "Generate site"
   task :generate do
-    puts "## Generating Site with Jekyll"
-    ENV['JEKYLL_ENV'] = 'production'
-    Jekyll::Site.new(Jekyll.configuration({
-      "source"      => ".",
-      "destination" => "_site",
-      "config" => "_config.yml"
-    })).process
+    system "bundle exec jekyll build"
+	# Below worked for Jekyll 3.x
+    #ENV['JEKYLL_ENV'] = 'production'
+    #Jekyll::Site.new(Jekyll.configuration({
+    #  "source"      => ".",
+    #  "destination" => "_site",
+    #  "config" => "_config.yml"
+    #})).process
   end
 
   desc "Publish blog to gh-pages"
