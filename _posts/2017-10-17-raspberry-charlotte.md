@@ -50,3 +50,5 @@ From the first forkful, everyone who tasted the cake raved over its flavour and 
 The tart, raspberry filling is mellowed slightly by the richness of the cream, but
 never gets cloying because the mousse dissolves in your mouth quickly. I would make
 this cake again without hesitation.
+
+**Update**: Oops, this is a [repeat](/2015/06/raspberry-charlotte.html)!
