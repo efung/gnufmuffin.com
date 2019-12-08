@@ -4,6 +4,7 @@ permalink: /archives/
 redirect_from: /tags/
 layout: archive
 author_profile: true
+regenerate: true
 ---
 
 <h1 class="archive__subtitle">By date</h1>
