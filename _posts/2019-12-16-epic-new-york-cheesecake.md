@@ -25,8 +25,13 @@ ingredients and techniques:
 - Eggs are beaten in all at once, streamlining the mixing process
 - No water bath is needed
 - The oven temperature starts out very high to provide lift, then the cake is finished at very low heat
+- She calls for a non-standard 8"x4" pan, but I substituted a **9"x3"** false bottom one
 
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/gnuf/49271738797/" title="Epic New York Cheesecake"><img src="https://live.staticflickr.com/65535/49271738797_8b24833568_c.jpg" width="800" height="600" alt="Epic New York Cheesecake"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+A quick note about my pan substitution: at the minimum baking time, 35 minutes,
+the cheesecake's internal temperature was already 160℉, so next time, I'd
+check it 5 minutes earlier.
 
 Anyway, I could go on and on (and I did, to whoever would listen)
 about how great this cheesecake is. It has a surprisingly light
