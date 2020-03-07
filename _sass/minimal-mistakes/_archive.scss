@@ -20,6 +20,15 @@
 
 .archive__item {
   position: relative;
+
+  a {
+    position: relative;
+    z-index: 10;
+  }
+
+  a[rel="permalink"] {
+    position: static;
+  }
 }
 
 .archive__subtitle {
@@ -41,7 +50,7 @@
   overflow: hidden;
   text-overflow: ellipsis;
 
-  a::before {
+  a[rel="permalink"]::before {
     content: '';
     position: absolute;
     left: 0;
@@ -116,7 +125,9 @@
    ========================================================================== */
 
 .list__item {
+/* BEGIN efung: ensure thumbnail on archive and home pages breaks */
   @include clearfix();
+/* END efung */
   .page__meta {
     margin: 0 0 4px;
     font-size: 0.6em;
@@ -436,4 +447,12 @@
       padding-right: 0;
     }
   }
+}
+
+/* Place inside a single layout */
+
+.layout--single {
+	.feature__wrapper {
+		display: inline-block;
+	}
 }
