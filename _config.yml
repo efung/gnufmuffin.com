@@ -109,6 +109,12 @@ author:
   - label: "Email"
     icon: "fas fa-fw fa-envelope-square"
     url: "mailto:efung@acm.org"
+  - label: "Twitter"
+    icon: "fab fa-fw fa-twitter-square"
+    url: "https://twitter.com/gnufmuffin"
+  - label: "Flickr"
+    icon: "fab fa-fw fa-flickr"
+    url: "https://www.flickr.com/photos/gnuf/"
 
 # Site Footer
 footer:
@@ -116,6 +122,9 @@ footer:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/gnufmuffin"
+    - label: "Flickr"
+      icon: "fab fa-fw fa-flickr"
+      url: "https://www.flickr.com/photos/gnuf/"
 #    - label: "Facebook"
 #      icon: "fab fa-fw fa-facebook-square"
 #      # url:
