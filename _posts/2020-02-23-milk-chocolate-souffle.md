@@ -5,7 +5,7 @@ date: 2020-02-23 15:20:15 -0500
 comments: true
 permalink: /2020/02/milk-chocolate-souffle.html
 tags: [souffle, chocolate]
-thumbnail: 
+thumbnail: https://live.staticflickr.com/65535/49631183593_1419b4c86f_q.jpg
 ---
 
 Not just a restaurant dessert, a souffle can be a weeknight dessert,
