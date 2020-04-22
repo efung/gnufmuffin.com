@@ -14,10 +14,6 @@ blogger:
     comments: "1"
 categories: [Cook's Illustrated]
 tags: [Cook's Illustrated, banana, coconut, pie]
-author: 
-    name: "Fung"
-    url: "http://www.blogger.com/profile/03282150919375756432?rel=author"
-    image: "http://3.bp.blogspot.com/_LChkCl37_PA/TUAhwdIPOmI/AAAAAAAAAQM/Yd6zWOJgSj4/s1600/5359768247_a1f76bf1d5_z.jpg"
 comments: true
 redirect_from: /blogspot/111668400955489636.html
 ---

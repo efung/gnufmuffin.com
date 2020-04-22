@@ -14,10 +14,6 @@ blogger:
     comments: "0"
 categories: [How To Be A Domestic Goddess, muffins]
 tags: [How To Be A Domestic Goddess, muffins]
-author: 
-    name: "Fung"
-    url: "http://www.blogger.com/profile/03282150919375756432?rel=author"
-    image: "http://3.bp.blogspot.com/_LChkCl37_PA/TUAhwdIPOmI/AAAAAAAAAQM/Yd6zWOJgSj4/s1600/5359768247_a1f76bf1d5_z.jpg"
 comments: true
 redirect_from: /blogspot/6482009233647885053.html
 ---

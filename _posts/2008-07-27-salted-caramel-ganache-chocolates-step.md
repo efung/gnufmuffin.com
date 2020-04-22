@@ -14,10 +14,6 @@ blogger:
     comments: "0"
 categories: [ChocolatesAndConfections]
 tags: [ChocolatesAndConfections, caramel, chocolate, chocolate making]
-author: 
-    name: "Fung"
-    url: "http://www.blogger.com/profile/03282150919375756432?rel=author"
-    image: "http://3.bp.blogspot.com/_LChkCl37_PA/TUAhwdIPOmI/AAAAAAAAAQM/Yd6zWOJgSj4/s1600/5359768247_a1f76bf1d5_z.jpg"
 excerpt: "For a tenure party Dr. S' friend was celebrating, I decided to make the caramel ganache chocolates from Peter Greweling's Chocolates and Confections:After reading about homemade confectionary frames, I've been hunting around to make my own. My coworker's brother is a machinist and he kindly made"
 comments: true
 redirect_from: /blogspot/2411816030535593514.html
