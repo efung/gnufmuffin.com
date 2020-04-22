@@ -261,6 +261,16 @@ defaults:
       path: ""
       type: posts
     values:
+      layout: post
+      author_profile: true
+      read_time: false
+      comments: true
+      share: false
+      related: false
+  - scope:
+      path: ""
+      type: posts
+    values:
       layout: single
       author_profile: true
       read_time: false

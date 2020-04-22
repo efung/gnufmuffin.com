@@ -20,7 +20,7 @@ namespace :site do
 
   desc "Generate site"
   task :generate do
-    system "bundle exec jekyll build"
+    system "JEKYLL_ENV=production bundle exec jekyll build"
 	# Below worked for Jekyll 3.x
     #ENV['JEKYLL_ENV'] = 'production'
     #Jekyll::Site.new(Jekyll.configuration({
