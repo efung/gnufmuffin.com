@@ -4,7 +4,7 @@ title: "Homemade Pocky"
 date: 2020-12-06 15:56:36 -0500
 comments: true
 permalink: /2020/12/homemade-pocky.html
-tags: [cookie]
+tags: [cookie, Holiday 2020]
 thumbnail: https://live.staticflickr.com/65535/50710642343_a84df0fd90_q.jpg
 ---
 

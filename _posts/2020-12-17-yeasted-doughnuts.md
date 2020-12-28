@@ -4,7 +4,7 @@ title: "Yeasted Doughnuts"
 date: 2020-12-17 18:07:51 -0500
 comments: true
 permalink: /2020/12/yeasted-doughnuts.html
-tags: [doughnut, Hanukkah]
+tags: [doughnut, Hanukkah, Cook's Illustrated]
 thumbnail: https://live.staticflickr.com/65535/50771301528_fa718119e8_q.jpg
 ---
 
