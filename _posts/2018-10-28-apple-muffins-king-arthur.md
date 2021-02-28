@@ -23,7 +23,7 @@ miniature cakes first thing in the morning is a healthy habit. The
 ingredients and method are easy-peasy, and there's not much to say about this
 recipe.
 
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/gnuf/32093228018/in/dateposted/" title="Apple Muffins"><img src="https://farm5.staticflickr.com/4851/32093228018_25f17477a8_z.jpg" width="640" height="521" alt="Apple Muffins"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/gnuf/32093228018/in/photolist-QTYbmC-QTYbzy-poJujL-9ya37p-4czGwa-9qCG6/" title="Apple Muffins"><img src="https://live.staticflickr.com/4851/32093228018_b55242fe7b_z.jpg" width="640" height="521" alt="Apple Muffins"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 My son's criticism was that even with 2 cups of chopped Cortland
 apple, there still wasn't enough to have some in every bite!
