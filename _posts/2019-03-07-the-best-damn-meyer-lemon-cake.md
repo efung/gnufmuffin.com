@@ -31,5 +31,5 @@ aftertaste.
 
 I'd like to continue to experiment with incorporating citrus in desserts. On
 my radar is Shaker Lemon Pie, which uses two whole lemons, thinly sliced. 
-And, Orange Supreme Muffins, which include the segments of two navel oranges 
+And, [Orange Supreme Muffins](/2021/03/orange-supreme-muffins.html), which include the segments of two navel oranges 
 in its batter.
