@@ -8,8 +8,8 @@ header:
 This site began in 2005 when I wrote about [taking baking classes](/gbc) at George Brown College.
 
 My love of baking began as a little boy, helping my Mom in the kitchen.
-Now, my son [likes to bake
-too](https://www.youtube.com/watch?v=PqfQJCSHVGo).
+Now, my son [likes to bake](https://www.youtube.com/watch?v=PqfQJCSHVGo) and
+my [daughter too](https://flickr.com/photos/gnuf/50788735287/).
 
 I try to never make the same thing twice. 
 
