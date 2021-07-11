@@ -1,0 +1,65 @@
+.recipe h1, h2, h3 {
+  font-family: "Montserrat", sans-serif;
+}
+
+.recipe h1 {
+  font-weight: bold;
+  color: #B52735;
+}
+
+.recipe h2 {
+  text-transform: uppercase;
+  color: #B52735;
+}
+
+.recipe h3 {
+  font-weight: normal;
+}
+
+.recipe-summary {
+  margin-top: 1rem;
+  font-style: italic;
+}
+
+.recipe-about {
+  margin-top: 1rem;
+  padding: 0.5rem;
+  border-left: thick solid #5B9CA2;
+  background: #FDF5E6;
+}
+
+.recipe-about ul {
+  list-style: none;
+}
+
+.recipe-about li {
+  font-size: small;
+  color: #5B9CA2;
+  text-transform: uppercase;
+}
+
+.recipe-about li span,time {
+  font-size: medium;
+  color: #000000;
+  text-transform: none;
+}
+
+.recipe-ingredients ul {
+  list-style: none;
+  padding-left: 0;
+}
+
+.recipe-ingredients li::marker {
+  color: #B52735;
+}
+
+.recipe-steps ul {
+  list-style-position: inside;
+}
+
+.recipe-steps li {
+  border-bottom: thin solid #CCCCCC;
+  padding-top: 0.75rem;
+  padding-bottom: 0.75rem;
+}
+
