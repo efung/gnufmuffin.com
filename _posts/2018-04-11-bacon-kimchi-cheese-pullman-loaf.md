@@ -14,7 +14,7 @@ _kimchi_! But my dream of instant gratification needed to be put on hold,
 as I lacked a [Pullman pan](http://www.chicagotribune.com/dining/drink/ct-food-0227-pullman-bread-recipe-20150227-story.html). 
 
 Fortunately, it wasn't too hard to find one online: the one from [USA Pan](https://www.usapan.com/13-x-4-x-4-large-pullman-loaf-pan-and-cover-1160pm) was well reviewed on Cook's Illustrated, so 
-once that arrived, I was ready to proceed. The [recipe](https://www.theglobeandmail.com/life/food-and-wine/recipes/recipe-bacon-kimchi-cheese-pullman-loaf/article38313464/) is due to [Tara O'Brady](http://sevenspoons.net/about-seven-spoons/), an author whose byline I look for every weekend, as her tastes and flavours 
+once that arrived, I was ready to proceed. The [recipe](https://www.theglobeandmail.com/life/food-and-wine/recipes/recipe-bacon-kimchi-cheese-pullman-loaf/article38313464/) is due to [Tara O'Brady](https://www.taraobrady.com/), an author whose byline I look for every weekend, as her tastes and flavours 
 are often highly aligned with my own.
 
 The night before, I minced the kimchi, and pressed it against a

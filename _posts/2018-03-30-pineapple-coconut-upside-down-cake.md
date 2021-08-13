@@ -16,7 +16,7 @@ the holidays. Sometimes, a few tiny adjustments, to either the recipe or your
 taste expectations, is all that's needed to make a dessert Pesach-friendly. 
 Such was the case with this pineapple cake, which turned out wonderfully.
 
-The [recipe](https://www.theglobeandmail.com/life/food-and-wine/recipes/recipe-pineapple-coconut-upside-down-cake/article38232377/) is by [Tara O'Brady](http://sevenspoons.net/about-seven-spoons/). Two 
+The [recipe](https://www.theglobeandmail.com/life/food-and-wine/recipes/recipe-pineapple-coconut-upside-down-cake/article38232377/) is by [Tara O'Brady](https://www.taraobrady.com/). Two 
 things that caught my eye were the lack of wheat flour in the batter, the inclusion 
 of almond and coconut, as well as using the seeds _and_ pod of a vanilla bean.
 

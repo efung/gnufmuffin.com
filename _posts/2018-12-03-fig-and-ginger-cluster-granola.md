@@ -12,7 +12,7 @@ As smoothie bowls have entered into our regular breakfast rotation,
 Dr. S and I need a regular supply of granola as one of the toppings.
 We've been pretty happy with the various [granolas](/tag/granola/)
 that have come out of our kitchen, but I'm always looking for new ideas.
-I found [Tara O'Brady's](http://sevenspoons.net/about-seven-spoons/) take
+I found [Tara O'Brady's](https://www.taraobrady.com/) take
 on this cereal concoction, in her cookbook, [_Seven Spoons_](/tag/seven-spoons/).
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/gnuf/31436660627/in/dateposted/" title="Fig and Ginger Cluster Granola"><img src="https://farm5.staticflickr.com/4874/31436660627_8e3404533a_z.jpg" width="640" height="480" alt="Fig and Ginger Cluster Granola"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>

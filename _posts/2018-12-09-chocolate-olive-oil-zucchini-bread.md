@@ -15,7 +15,7 @@ a cake that checked all the boxes.
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/gnuf/46375921601/in/photostream/" title="Chocolate Olive Oil Zucchini Bread"><img src="https://farm5.staticflickr.com/4832/46375921601_129b87350c_z.jpg" width="640" height="480" alt="Chocolate Olive Oil Zucchini Bread"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-The [recipe](http://sevenspoons.net/blog/2011/8/2/the-means-to-the-end.html) is by Tara O'Brady,
+The [recipe](http://sevenspoons.squarespace.com/blog/2011/8/2/the-means-to-the-end.html) is by Tara O'Brady,
 from her [Seven Spoons](/tag/seven-spoons/) cookbook from a few years ago. It's made with
 both AP and whole-wheat flour, and includes chocolate chunks and walnuts. The most time-consuming
 part is preparing the squash. It's not mentioned in the version I linked above, but the

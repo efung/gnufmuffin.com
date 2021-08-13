@@ -14,7 +14,7 @@ in the filling, and rye flour in the pastry dough. Looking for a break from
 [apples](/tag/apple/), I was excited to make this pear-cranberry dessert.
 
 The [recipe](http://www.theglobeandmail.com/life/food-and-wine/recipes/vanilla-pearand-cranberry-pie/article32240256/)
-was published in the Globe and Mail, and is by [Tara O'Brady](http://sevenspoons.net/about-seven-spoons/). First
+was published in the Globe and Mail, and is by [Tara O'Brady](https://www.taraobrady.com/). First
 up was making the pie dough, which included a large amount of low-gluten rye flour. The mixture definitely
 felt crumbly, even after my kids and I squashed the butter cubes with our fingers, and incorporated all
 of the liquid. Rolling it out was problematic: the dough didn't hold together very well, and cracked quite a 
