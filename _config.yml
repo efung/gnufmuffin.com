@@ -102,7 +102,7 @@ analytics:
 # Site Author
 author:
   name                   : *name
-  avatar                 : "https://en.gravatar.com/userimage/1375615/e8cbd502e27e8b4ee44a1301be8b02c2.png"
+  avatar                 : "https://www.gravatar.com/avatar/877215a85ea128b67b4334142a6df260"
   bio                    : "I like to bake and make desserts in my spare time. This is a journal of my experiments."
   location               : "Toronto, Canada"
   links:
