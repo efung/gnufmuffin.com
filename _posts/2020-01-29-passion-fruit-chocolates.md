@@ -9,7 +9,7 @@ thumbnail: https://live.staticflickr.com/65535/49512162403_6f6f9b9da8_q.jpg
 ---
 
 
-Making chocolates by hand doesn't fill with me with dread: I don't mind that success depends on being exacting and patient because I have those qualities. I've made [dozens of varieties of chocolate](/tag/chocolate-making/) in the past decade and a half, and almost every time, they were for a special occasion. This week, we're hosting a belated housewarming party, so I naturally wanted to make some chocolates.
+Making chocolates by hand doesn't fill me with dread: I don't mind that success depends on being exacting and patient because I have those qualities. I've made [dozens of varieties of chocolate](/tag/chocolate-making/) in the past decade and a half, and almost every time, they were for a special occasion. This week, we're hosting a belated housewarming party, so I naturally wanted to make some chocolates.
 
 I turned to one of the chocolate books I refer to most often: [Chocolates and Confections](/tag/chocolatesandconfections/) by Peter Greweling. I bought this a long time ago, and have managed to produce some amazing results, despite its targeted audience of professionals. The **Passion Fruit Honey Butter Ganache** [recipe](https://app.ckbk.com/recipe/choc24414c06s001ss002sss004r008/passion-fruit-honey-butter-ganache) sounded good, and was one I hadn't made before.
 
