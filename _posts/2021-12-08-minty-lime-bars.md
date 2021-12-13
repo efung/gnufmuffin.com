@@ -4,7 +4,7 @@ title: "Minty Lime Bars"
 date: 2021-12-08 11:02:17 -0500
 comments: true
 permalink: /2021/12/minty-lime-bars.html
-tags: [lime, mint, bars, squares]
+tags: [lime, mint, bars, squares, Holiday 2021]
 thumbnail: https://live.staticflickr.com/65535/51736750063_8ea7961f97_q.jpg
 ---
 

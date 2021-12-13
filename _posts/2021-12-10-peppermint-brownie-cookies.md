@@ -4,7 +4,7 @@ title: "Peppermint Brownie Cookies"
 date: 2021-12-10 20:25:20 -0500
 comments: true
 permalink: /2021/12/peppermint-brownie-cookies.html
-tags: [chocolate, cookie, mint]
+tags: [chocolate, cookies, mint, Holiday 2021]
 thumbnail: https://live.staticflickr.com/65535/51741660712_676d792e84_q.jpg
 ---
 

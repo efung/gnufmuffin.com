@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Peanut Butter Cookies (Genevieve Ko)"
-date: 2021-12-10 17:12:28 -0500
+date: 2021-12-09 17:12:28 -0500
 comments: true
 permalink: /2021/12/peanut-butter-cookies-genevieve-ko.html
-tags: [peanut butter, cookies]
+tags: [peanut butter, cookies, Holiday 2021]
 thumbnail: https://live.staticflickr.com/65535/51743329835_84479eff4e_q.jpg
 ---
 

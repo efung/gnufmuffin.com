@@ -4,7 +4,7 @@ title: "Tahini Thumbprints Cookies with Dulce de Leche"
 date: 2021-12-07 22:03:21 -0500
 comments: true
 permalink: /2021/12/tahini-thumbprints-cookies-with-dulce-de-leche.html
-tags: [tahini, dulce de leche]
+tags: [tahini, dulce de leche, Holiday 2021]
 thumbnail: https://live.staticflickr.com/65535/51736510881_0bb10a1d00_q.jpg
 ---
 
