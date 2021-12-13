@@ -4,7 +4,7 @@ title: "Giant Crinkled Chocolate Chip Cookies"
 date: 2017-12-24 23:22:48 -0500
 comments: true
 permalink: /2017/12/giant-crinkled-chocolate-chip-cookies.html
-tags: [chocolate chip, cookie]
+tags: [chocolate chip, cookies]
 thumbnail: https://farm5.staticflickr.com/4728/39369685471_171c8d253c_q.jpg
 ---
 
