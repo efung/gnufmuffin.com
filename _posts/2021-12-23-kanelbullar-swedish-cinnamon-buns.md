@@ -4,7 +4,7 @@ title: "Kanelbullar (Swedish Cinnamon Buns)"
 date: 2021-12-23 12:15:32 -0500
 comments: true
 permalink: /2021/12/kanelbullar-swedish-cinnamon-buns.html
-tags: [Cook's Illustrated, cardamom, cinnamon, buns]
+tags: [Cook's Illustrated, cardamom, cinnamon, buns, tangzhong]
 thumbnail: https://live.staticflickr.com/65535/51774590411_84159af6c2_q.jpg
 ---
 
