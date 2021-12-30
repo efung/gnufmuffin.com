@@ -22,6 +22,8 @@ to thoroughly mix the cornstarch with sugar, to reduce clumping.
 We didn't have heavy cream or whole milk: I substituted with
 half-and-half, and 2% milk.
 
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/gnuf/15848757873/in/album-72157694793848540/" title="Creamy Mexican Pudding"><img src="https://live.staticflickr.com/7329/15848757873_49e9c94690_c.jpg" width="800" height="600" alt="Creamy Mexican Pudding"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
 Once the cream and yolks are incorporated, they start to dissolve
 the dry ones, and I slowly poured the milk in while constantly whisking.
 This tempering method helps to reduce lumps. Once heated, the mixture
