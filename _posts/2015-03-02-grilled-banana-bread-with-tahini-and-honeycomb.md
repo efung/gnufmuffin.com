@@ -59,7 +59,7 @@ width="320" height="240" alt="Grilled Banana Bread with Tahini and
 Honeycomb"></a>
 
 Mmmmm. That's all we had to say as we ate this after the kids went to bed. 
-The tahini and honeycome really elevate a mediocre banana bread into
+The tahini and honeycomb really elevate a mediocre banana bread into
 something much more delicious.
 
 <a href="https://www.flickr.com/photos/gnuf/16512865710" title="Grilled
