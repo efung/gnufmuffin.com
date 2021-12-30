@@ -13,8 +13,7 @@ varieties. We bought some Morello cherries this week, a dark-fleshed
 tart variety, and stained our hands red pitting them to make desserts
 post-dinner.
 
-Our first project in the week was a  
-[cobbler](/2008/07/fresh-sour-cherry-cobbler.html) that we've
+Our first project in the week was a [cobbler](/2008/07/fresh-sour-cherry-cobbler.html) that we've
 made in the past, but a quick Internet search turned up this
 [recipe](http://www.marthastewart.com/318111/sour-cherry-pistachio-crisp).
 
