@@ -55,7 +55,7 @@ looked a bit moist. I sprayed the cups generously with PAM, but
 didn't really need to. These muffins were quite greasy and soaked
 through their paper liners.
 
-As for how these muffins tested, I would consider them very good:
+As for how these muffins tasted, I would consider them very good:
 a soft but coarse and moist crumb, without any roughness that often
 betrays a healthy muffin. Even without the orange streusel, I thought
 these muffins had a lot of flavour. I would definitely make these
