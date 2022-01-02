@@ -38,7 +38,7 @@ time as you can see from this schedule:
 I was able to fit this into my weekday schedule, by doing the first set of steps right after dinner,
 then doing the final proof and bake on the following evening.
 
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/gnuf/29396069315/in/photostream/" title="Classic Sourdough Bread (Pain au Levain)"><img src="https://c4.staticflickr.com/9/8407/29396069315_8dd5ff8ebc.jpg" width="500" height="281" alt="Classic Sourdough Bread (Pain au Levain)"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/gnuf/29396069385/in/photostream/" title="Classic Sourdough Bread (Pain au Levain)"><img src="https://live.staticflickr.com/8108/29396069385_d15939315f_c.jpg" width="800" height="450" alt="Classic Sourdough Bread (Pain au Levain)"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 Ensure that you thoroughly flour your bowl or banneton, as this dough is quite wet, and it ferments in
 the fridge for an extended period of time. On one occasion when I made this bread, I used a bleached,
