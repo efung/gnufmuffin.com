@@ -17,7 +17,7 @@ of making a batch of similar-tasting granola.
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/gnuf/35407007740/in/photostream/" title="Crunchy Granola"><img src="https://farm5.staticflickr.com/4216/35407007740_b489393ca5.jpg" width="500" height="375" alt="Crunchy Granola"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-The [recipe](http://pudgefactor.com/crunchy-granola/) comes from [Baking Chez Choi](http://www.gnufmuffin.com/tag/baking-chez-moi/). I actually came across it while skimming the headnote
+The [recipe](http://pudgefactor.com/crunchy-granola/) comes from [Baking Chez Moi](http://www.gnufmuffin.com/tag/baking-chez-moi/). I actually came across it while skimming the headnote
 for a roasted rhubarb recipe, which I ended up not making, opting to
 wash, peel, cut and freeze the tart stalks instead. However, I really
 liked the suggestion of making yogurt parfaits, with granola
