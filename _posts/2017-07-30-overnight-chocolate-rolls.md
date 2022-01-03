@@ -66,7 +66,7 @@ the rolls would all have been touching, leaving less exposed areas to brown.
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/gnuf/36143853341/in/photostream/" title="Overnight Chocolate Rolls"><img src="https://farm5.staticflickr.com/4306/36143853341_bd9bb678c7_z.jpg" width="640" height="480" alt="Overnight Chocolate Rolls"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-A few minutes out of the oven, these buns were a carb bomb breakfast. I didn'
-t even bother to make the cream cheese frosting. While completely unhealthy, 
+A few minutes out of the oven, these buns were a carb bomb breakfast. I didn't
+even bother to make the cream cheese frosting. While completely unhealthy, 
 they were a sweet treat to end our week.
 
