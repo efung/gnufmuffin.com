@@ -39,6 +39,8 @@ namespace :site do
     # Make a temporary directory for the build before production release.
     # This will be torn down once the task is complete.
     Dir.mktmpdir do |tmp|
+      prevdir = Dir.pwd
+
       # Copy accross our compiled _site directory.
       cp_r "_site/.", tmp
 
@@ -54,6 +56,9 @@ namespace :site do
 
       # Push the files to the gh-pages branch, forcing an overwrite.
       system "git push origin master:refs/heads/gh-pages --force"
+
+      # Restore where we were, to avoid getcwd error otherwise
+      Dir.chdir prevdir
     end
 
     # Done.
