@@ -22,7 +22,7 @@ this Stella Parks [recipe](https://www.seriouseats.com/strawberry-frosting-recip
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/gnuf/52058279510/in/photostream/" title="Freeze-Dried Strawberries"><img src="https://live.staticflickr.com/65535/52058279510_438d834025_c.jpg" width="800" height="600" alt="Freeze-Dried Strawberries"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 In the US, Trader Joe's is a reliable place to get freeze-dried fruit,
-but up here, I ended up buying some from an unlikely source: [soursopstore.ca](https://soursopstore.ca/products/freeze-dried-strawberries-50g-pack) Even though it's twice the cost of TJ's, it was still far less expensive than the prices I saw on Amazon.
+but up here, I ended up buying some from an unlikely source: [soursopstore.ca](https://soursopstore.ca/products/freeze-dried-strawberries-50g-pack) Even though it's twice the cost of TJ's, it was still far less expensive than the prices I saw on Amazon. For future price comparison, they were $10 for 50g, purchased in a 5-pack.
 
 Making the Swiss meringue worked exactly as the instructions described,
 and I was careful to measure the temperature of my ingredients at
