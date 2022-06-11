@@ -16,7 +16,7 @@ in under an hour.
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/gnuf/50111922091/in/photostream/" title="Strawberry-Rhubarb Crisp"><img src="https://live.staticflickr.com/65535/50111922091_a05b76d20b_c.jpg" width="800" height="600" alt="Strawberry-Rhubarb Crisp"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 Most crisp recipes need fruit to be pre-cooked (either in the microwave, oven, or stovetop).
-This [recipe](https://www.cookscountry.com/recipes/12524-strawberry-rhubarb-crisp)
+This [recipe](https://downtonabbeycooks.com/summery-rhubarb-strawberry-crisp/)
 is no different, but the cooking is done in the final pan in which it is
 baked. I used the 10" cast iron skillet part of the two-piece [Lodge combo cooker](https://www.lodgemfg.com/product/cast-iron-combo-cooker?sku=LCC3).
 What's nice about the recipe is that it allows you to use frozen
