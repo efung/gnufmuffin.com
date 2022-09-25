@@ -19,7 +19,7 @@ src="https://farm6.staticflickr.com/5606/15638775467_483f2e0697_n.jpg"
 width="320" height="240" alt="Chocolate and Lemon Madeleines"></a>
 
 The Pierre Hermé
-[recipe](http://www.thelittleteochew.com/2010/10/chococate-lemon-madeleines.html)
+[recipe](https://lemonsandanchovies.com/2012/04/chocolate-madeleines/)
 I used comes from his <i>Chocolate Desserts</i> cookbook, and is one of
 the easiest. The batter can be made by hand (no mixer required) but does
 require a long rest. 
