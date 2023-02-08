@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Chocolate-Hazelnut Macau-Style Cookies"
-date: 2023-01-29 18:09:19 -0500
+date: 2023-02-06 18:09:19 -0500
 comments: true
 permalink: /2023/01/chocolate-hazelnut-macau-style-cookies.html
-tags: [cookies, chocolate, hazelnut]
+tags: [cookies, chocolate, hazelnut, almond]
 thumbnail: https://live.staticflickr.com/65535/52669300975_2a65ecef09_q.jpg
 ---
 
@@ -29,7 +29,12 @@ with a cookie stamp. (I have yet to purchase a mooncake mold press!)
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/gnuf/52669153249/in/photostream/" title="Chocolate-Hazelnut Macau-Style Cookies"><img src="https://live.staticflickr.com/65535/52669153249_499caa93f2_c.jpg" width="600" height="800" alt="Chocolate-Hazelnut Macau-Style Cookies"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 I liked these crumbly cookies a lot, and as she notes in the recipe,
-they taste just like a Ferrero Rocher chocolate. I want to make
-the more traditional kind with almond flour for comparison.
+they taste just like a Ferrero Rocher chocolate. A week later, I made
+a double batch with almond flour instead of hazelnut. This time, the
+dough was drier, and I made each cookie slightly smaller, trimming the
+pressed rounds with a cookie cutter. These turned out great also,
+but didn't have the pronounced aroma the hazelnut ones did.
+
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/gnuf/52675949026/in/dateposted/" title="Chocolate-Almond Macau-Style Cookies"><img src="https://live.staticflickr.com/65535/52675949026_2045edb5f8_c.jpg" width="800" height="600" alt="Chocolate-Almond Macau-Style Cookies"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 You can see the author making these cookies in this [video](https://www.youtube.com/watch?v=_kXjCoSeOpE).
