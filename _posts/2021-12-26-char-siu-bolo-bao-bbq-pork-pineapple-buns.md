@@ -4,7 +4,7 @@ title: "Char Siu Bolo Bao (叉燒菠蘿包) aka Pineapple Buns with BBQ Pork"
 date: 2021-12-26 16:35:14 -0500
 comments: true
 permalink: /2021/12/char-siu-bolo-bao-bbq-pork-pineapple-buns.html
-tags: [chinese, buns, bread, tangzhong, pork]
+tags: [Chinese, buns, bread, tangzhong, pork]
 thumbnail: https://live.staticflickr.com/65535/51780243343_683e7b9737_q.jpg
 ---
 
