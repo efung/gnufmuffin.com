@@ -4,7 +4,7 @@ title: "Roasted Peaches with Glazed Sesame Oats"
 date: 2021-08-08 16:48:50 -0400
 comments: true
 permalink: /2021/08/roasted-peaches-with-glazed-sesame-oats.html
-tags: [peaches, Seven Spoons]
+tags: [peach, Seven Spoons]
 thumbnail: https://live.staticflickr.com/65535/51377009739_57a099a106_q.jpg
 ---
 
