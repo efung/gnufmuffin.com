@@ -4,7 +4,7 @@ title: "Orange-Olive Oil Cake"
 date: 2014-12-22 09:06:56 -0500
 comments: true
 permalink: /2014/12/orange-olive-oil-cake.html
-tags: [cake, olive oil, orange, Hanukkah]
+tags: [cake, olive oil, orange, Hanukkah, dairy-free]
 thumbnail: https://farm9.staticflickr.com/8641/16053802856_ed61a55987_q.jpg
 ---
 

@@ -4,7 +4,7 @@ title: "Olive Oil Challah"
 date: 2021-07-30 21:09:54 -0400
 comments: true
 permalink: /2021/07/olive-oil-challah.html
-tags: [bread, challah, orange, olive oil]
+tags: [bread, challah, orange, olive oil, dairy-free]
 thumbnail: https://live.staticflickr.com/65535/51352037989_127c9f75b6_q.jpg
 ---
 

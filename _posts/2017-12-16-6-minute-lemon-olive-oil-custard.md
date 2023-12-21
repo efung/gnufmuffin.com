@@ -4,7 +4,7 @@ title: "6-Minute Lemon Olive Oil Custard"
 date: 2017-12-16 20:04:11 -0500
 comments: true
 permalink: /2017/12/6-minute-lemon-olive-oil-custard.html
-tags: [custard, lemon, olive oil]
+tags: [custard, lemon, olive oil, dairy-free]
 thumbnail: https://farm5.staticflickr.com/4684/38293220335_3276ab38f4_q.jpg
 ---
 
