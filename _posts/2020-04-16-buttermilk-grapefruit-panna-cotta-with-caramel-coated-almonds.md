@@ -4,7 +4,7 @@ title: "Buttermilk-Grapefruit Panna Cotta with Caramel-Coated Almonds"
 date: 2020-04-16 12:43:01 -0400
 comments: true
 permalink: /2020/04/buttermilk-grapefruit-panna-cotta-with-caramel-coated-almonds.html
-tags: [Cook's Illustrated, panna cotta, buttermilk, almonds]
+tags: [Cook's Illustrated, panna cotta, buttermilk, almond]
 thumbnail: https://live.staticflickr.com/65535/49794336478_8cc0dde5c0_q.jpg
 ---
 
