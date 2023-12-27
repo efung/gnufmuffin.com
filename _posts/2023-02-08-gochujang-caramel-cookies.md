@@ -4,7 +4,7 @@ title: "Gochujang Caramel Cookies"
 date: 2023-02-08 20:28:07 -0500
 comments: true
 permalink: /2023/02/gochujang-caramel-cookies.html
-tags: [cookies, chili]
+tags: [cookies, chile]
 thumbnail: https://live.staticflickr.com/65535/52685955515_9ccdc0ee30_q.jpg
 ---
 
@@ -31,10 +31,10 @@ for the New York Times Food section. You can [watch](https://www.youtube.com/wat
 
 Of course, if you're a regular reader of this blog, you know I will
 always try anything unusual or unexpected. And using a fermented,
-spicy-sweet Korean chili paste in a _cookie_ definitely attracted my
+spicy-sweet Korean chile paste in a _cookie_ definitely attracted my
 attention. These aren't hard to make, but do pay close attention 
 to the tips given in the recipe and video. In particular, the swirling
-of the chili caramel needs a deft touch.
+of the chile caramel needs a deft touch.
 
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/gnuf/52685955370/in/photostream/" title="Gochujang Caramel Cookies"><img src="https://live.staticflickr.com/65535/52685955370_da61fd89df_c.jpg" width="800" height="600" alt="Gochujang Caramel Cookies"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 

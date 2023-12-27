@@ -4,7 +4,7 @@ title: "Peanut Satay Crunchers"
 date: 2023-08-11 21:48:58 -0400
 comments: true
 permalink: /2023/08/peanut-satay-crunchers.html
-tags: [peanut, cookies]
+tags: [peanut, cookies, chile]
 thumbnail: https://live.staticflickr.com/65535/53162958988_0f4d4793eb_q.jpg
 ---
 

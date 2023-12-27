@@ -5,7 +5,7 @@ date: 2014-08-27 19:51:43 -0400
 comments: true
 permalink: /2014/08/peach-and-jalapeno-popsicle.html
 thumbnail: https://farm4.staticflickr.com/3871/15069213341_f95f0a33b1_q.jpg
-tags: [ice pops, peach]
+tags: [ice pops, peach, chile]
 ---
 
 Another day, another peach post. This time, a spicy popsicle!
