@@ -4,7 +4,7 @@ title: "Roasted Banana Cake"
 date: 2017-12-05 22:28:29 -0500
 comments: true
 permalink: /2017/12/roasted-banana-cake.html
-tags: [banana, cake, quick bread, walnuts, chocolate]
+tags: [banana, cake, quick bread, walnut, chocolate]
 thumbnail: https://farm5.staticflickr.com/4516/38869372892_0b8b3ed842_q.jpg
 ---
 
