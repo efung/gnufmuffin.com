@@ -22,7 +22,7 @@ promised an easy, delicious result, with no pre-cooking of the fruit.
 To fit our busy schedule, I decided to weigh, peel, core, and quarter
 the apples on Tuesday evening. My thinking was to get the time-consuming
 steps out of the way, and leave the slicing of the apples until the
-next morning. To fruther discourage browning, I tossed the fruit
+next morning. To further discourage browning, I tossed the fruit
 with lemon juice while they were inside the plastic bag.
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/gnuf/32039836547" title="Granny Smith apples for pie"><img src="https://farm8.staticflickr.com/7860/32039836547_6102c41c17_z.jpg" width="480" height="640" alt="Granny Smith apples for pie"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>

@@ -28,7 +28,7 @@ cranberries with sugar and water until they're hot and bothered is
 all that's needed. The residual heat cooks the eggs and cornstarch.
 How easy is that?
 
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/gnuf/51732123731/in/dateposted/" title="Cranberry Curd Tart with Almond Crust"><img src="https://live.staticflickr.com/65535/51732123731_a4897302a5_c.jpg" width="800" height="600" alt="Cranberry Curd Tart with Almond Crust"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/gnuf/51732368478/in/album-72177720295590887/" title="Cranberry Curd Tart with Almond Crust"><img src="https://live.staticflickr.com/65535/51732368478_6c947baff2_c.jpg" width="800" height="600" alt="Cranberry Curd Tart with Almond Crust"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 Apparently, cranberries have a lot of pectin which helps to set the
 curd without as much eggs or starch that, say, a lemon-based one 
