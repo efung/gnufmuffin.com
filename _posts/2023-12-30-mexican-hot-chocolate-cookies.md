@@ -4,7 +4,7 @@ title: "Mexican Hot Chocolate Cookies"
 date: 2023-12-30 18:06:30 -0500
 comments: true
 permalink: /2023/12/mexican-hot-chocolate-cookies.html
-tags: [cookies, chile, cinnamon]
+tags: [cookies, chile, cinnamon, Holiday 2023]
 thumbnail: https://live.staticflickr.com/65535/53446117542_dae442d941_q.jpg
 ---
 
