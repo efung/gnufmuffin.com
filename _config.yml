@@ -75,6 +75,7 @@ google_site_verification :
 bing_site_verification   :
 yandex_site_verification :
 naver_site_verification  :
+mastodon_site_verification: https://mastodon.social/@gnuf
 
 # Social Sharing
 twitter:
