@@ -1,6 +1,7 @@
 require 'jekyll'
 require 'tmpdir'
 require 'stringex'
+require 'pathname'
 
 source_dir      = "."         # source file directory
 deploy_dir      = "_site"     # deploy directory (for Github pages deployment)
@@ -77,7 +78,7 @@ namespace :site do
     if File.exist?(pathname)
       abort("rake aborted!") if ask("#{pathname} already exists. Do you want to overwrite?", ['y', 'n']) == 'n'
     end
-    puts "Creating new post: #{pathname}"
+    puts "Creating new post: #{Pathname.new(pathname).cleanpath}"
     open(pathname, 'w') do |post|
       post.puts "---"
       post.puts "layout: post"
