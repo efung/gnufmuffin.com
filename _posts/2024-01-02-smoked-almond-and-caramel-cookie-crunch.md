@@ -16,6 +16,8 @@ and smoked almonds (I used a tin from Blue Diamond). The dough
 is very crumbly, but the fun part is just patting it all into a 
 sheet pan.
 
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/gnuf/53447359269/in/photostream/" title="Smoked Almond and Caramel Cookie Crunch"><img src="https://live.staticflickr.com/65535/53447359269_d2f2921411_c.jpg" width="800" height="800" alt="Smoked Almond and Caramel Cookie Crunch"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
 Here is where I think there's a problem with the recipe or a problem
 with my oven: it says to bake it at 350&deg;F on a low rack for 
 27 to 35 minutes. At minimum time, it was quite dark at the edges
