@@ -4,7 +4,7 @@ title: "PB &amp; J Saltine Panna Cotta"
 date: 2017-03-21 08:19:49 -0400
 comments: true
 permalink: /2017/03/pb-and-j-saltine-panna-cotta.html
-tags: [Momofuku, Milk Bar, peanut butter, feuilletine]
+tags: [Momofuku, Milk Bar, peanut butter, feuilletine, panna cotta]
 thumbnail: https://farm3.staticflickr.com/2881/33475426882_f9e9ac2e70_q.jpg
 ---
 
