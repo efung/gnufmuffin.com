@@ -5,7 +5,7 @@ date: 2024-09-06 08:36:17 -0500
 comments: true
 permalink: /2024/09/peach-ice-cream-mk.html
 tags: [peach, ice cream]
-thumbnail: https://www.flickr.com/photos/gnuf/54125564209/sizes/q/
+thumbnail: https://live.staticflickr.com/65535/54125564209_2e7fd1ff9f_q.jpg
 ---
 
 A colleague shared an ice cream recipe that she had been tweaking,
