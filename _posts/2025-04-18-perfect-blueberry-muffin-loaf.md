@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Perfect Blueberry Muffin Loaf"
-date: 2025-04-21 23:24:03 -0400
+date: 2025-04-18 13:24:03 -0400
 comments: true
 permalink: /2025/04/perfect-blueberry-muffin-loaf.html
-tags: [lemon, blueberry, quick bread]
+tags: [lemon, blueberry, quick bread, yogurt]
 thumbnail: https://live.staticflickr.com/65535/54494896311_5a38d63bb4_q.jpg
 ---
 
