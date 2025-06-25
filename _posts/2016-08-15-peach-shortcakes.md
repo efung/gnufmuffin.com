@@ -4,7 +4,7 @@ title: "Peach Shortcakes"
 date: 2016-08-15 19:01:47 -0400
 comments: true
 permalink: /2016/08/peach-shortcakes.html
-tags: [peach, biscuits, Cook's Illustrated]
+tags: [peach, biscuits, Cook's Illustrated, shortcakes]
 thumbnail: https://farm9.staticflickr.com/8051/28415123974_d0d6a9833d_q.jpg
 ---
 
