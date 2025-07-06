@@ -5,7 +5,7 @@ date: 2025-05-26 20:44:03 -0400
 comments: true
 permalink: /2025/05/buttermilk-biscuit-shortcakes-with-strawberries.html
 tags: [shortcakes, strawberry, biscuits]
-thumbnail: 
+thumbnail: https://live.staticflickr.com/65535/54612361390_6ff56a1834_q.jpg
 ---
 
 One of Dr. S' favourite summer desserts is strawberry shortcake. 
