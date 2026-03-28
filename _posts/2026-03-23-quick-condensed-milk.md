@@ -31,3 +31,7 @@ We love making the chai variation by adding whole spices to the mix,
 then straining them out afterward. I bash them up a bit in a mortar
 and pestle to extract maximum flavour. My daughter loves mixing up
 a tablespoon with some hot, decaf tea for an instant masala chai!
+
+I made this two years ago, as part of making the 
+[Magic Key Lime Pie](/2024/02/magic-key-lime-pie.html) but never
+wrote about it separately. 
