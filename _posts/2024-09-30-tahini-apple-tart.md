@@ -18,6 +18,8 @@ NYT Cooking is the source of the
 The dough is a basic pie dough made by hand using the [_fraisage_](https://www.kingarthurbaking.com/blog/2022/07/06/what-is-fraisage-and-how-do-i-use-it-for-flaky-pie-dough) technique. I did it during lunch, and left it to
 chill while I went back to work.
 
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/gnuf/54046502502/in/dateposted/" title="Tahini Apple Tart"><img src="https://live.staticflickr.com/65535/54046502502_8bb33e6992_c.jpg" width="600" height="800" alt="Tahini Apple Tart"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
 Dr. S helped me to make the spread, a sort of sesame frangipane. Make
 sure all your ingredients are at room temperature so that they blend
 together easily. For the filling, I used a mix of Honeycrisp and Cortland
